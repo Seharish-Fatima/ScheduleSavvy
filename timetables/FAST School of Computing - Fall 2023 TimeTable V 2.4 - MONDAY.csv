@@ -1,0 +1,263 @@
+MONDAY,,,,,,,,
+Slots,1,2,3,4,5,6,7,8
+Venues/time,08-8:55,09:00-09:55,10:00-10:55,11:00-11:55,12:00-12:55,1:00-01:55,02:00-02:55,03:00-03:55
+CLASSROOMS,,,,,,,,
+E1 CS(50),"SCD BSE-5B
+  Naz Memon","DB BCS-5A
+  Romasha Khurshid","SDA BCS-5A
+  Dr. Muazzam Ali","CN BCY-5A
+  Muhammad Ali","DB-BAI-5B
+  Omer Qureshi","TBW BAI-5A
+  Khadija Shireen","DB BCS-5A
+  Romasha Khurshid",
+E2 CS (50),,"Algo BCS-5D
+  Dr. Nasir Uddin","SDA BCS-5B
+  Rubab Manzar","CN BCY-5B
+  Shoaib Raza","GT BCS-5B
+  Abdul Basit","GT BCS-5B
+  Abdul Basit","KRR BAI-5A
+ Dr. M. Rafi",
+E3 CS (50),"SDA BCS-5E
+  Nida Munawwar","GT- BCS-5K
+  Usama Antuley","Algo BCS-5J
+  Anaum Hamid","Algo BCS-5K
+  Dr. Farrukh Salim","PDC BCS-5C
+  Dr. Nadeem Kafi","DB BCS-5C
+  Dr. Anam Qureshi","DB BCS-5D
+  Dr. Anam Qureshi","PDC BCS-5B
+  Dr. Nousheen"
+E4 CS (50),,"SQE BSE-5A
+  Rubab Manzar","GT BCS-5H
+  Usama Antuley","SCD BSE-5A
+  Naz Memon","DB BCY-5B
+  Abeer Gauhar","Algo BCY-5B 
+  Sandesh Kumar","DB BCS-5H
+  Fizza Aqeel","SDA BCS-5F
+  Noureen Fatima"
+E5 CS (50),"Algo BCS-5C
+  Dr. Farrukh Salim","SDA BCS-5C
+  Nida Munawwar",,,"GT BCS-5H
+  Usama Antuley","DB BAI-5B
+  Omer Qureshi",,"OS BCS-5C
+ Faisal Ahmed"
+E6 CS (50),,"GT BCS-5G
+  Abdul Basit",,,"Algo BCS-5D
+  Dr. Nasir Uddin","SDA BCS-5D
+  Javeria Farooq","SCD BSE-5A
+  Naz Memon","DB BSE-5B
+  M Ali Fatmi"
+R11 CS (50),"DB BCS-5H
+  Fizza Aqeel","Algo BAI-5A
+  Syed Syed Faisal Ali","DB BAI-5A
+  Fizza Mansoor","DB BAI-5A
+  Fizza Mansoor","Algo BCS-5E
+  Dr. Farrukh Salim","Algo BCS-5E
+  Dr. Farrukh Salim",,
+R12 CS (70),"KRR BAI-5B
+  Dr. M. Rafi","TBW BAI-5B
+  Madiha Rehman",BCY 5B Reserved for Sandesh Khmar,"Algo BAI-5B
+  Faisal Ahmed","DB BSE-5A
+  M Ali Fatmi","GT BCS-5K
+  Usama Antuley","DB BCS-5K
+  Dr. Zulfiqar Ali",
+R109 CS (50),"Algo BCS-5J
+  Anaum Hamid","Algo BCY-5A
+  Sandesh Kumar",,"GT- BCS-5B
+  Abdul Basit","CN BCY-5A
+  Muhammad Ali","NCYS 1 BCY-5A
+  Dr. Fahad Samad","DB BCY-5A
+  Abeer Gauhar",
+E-29 EE (52),"CN BCY-5A
+  Muhammad Ali","GT BCS-5E
+  Dr. Nazish Kanwal",,"PF BCS-1D
+  Zain ul Hassan","CAL BCS-1D
+  Nadeem Khan","AP BCS-1F
+  Waqar Ahmed","CAL BCS-1F
+  Nadeem Khan","PF BCS-1F
+  Basit Ali"
+E-30 EE (52),"DB BSE-5A
+  M Ali Fatmi","DB BSE-5B
+  M Ali Fatmi","SCD-BSE-5B
+  Naz Memon","CAL BSE-1A
+  Mairaj","AP BCS-1E
+  Rabia Tabbasum","PF BCS-1E
+  Muhamamad Shahzad","Algo BCS-5G
+  Dr. Nasir Uddin",
+E-31 EE (52),,,,"AP BCS-1A
+  Rabia Tabbasum","PF BCS-1G
+  Sobia Iftikhar",,,
+E-32 EE (52),"FE BCS-1D
+  Huma Hafeez","PF BCS-1D
+  Zain ul Hassan","ICP BCY-1A
+  Dr Shahnawaz","AP BCY-1A
+  Javed Qureshi","PF BCS-1H
+  Zain ul Hassan",,"AP BCS-1D
+  Waqar Ahmed","ICP BCY-1B
+  Farhan Ali Memon"
+E-33 EE (52),"PF BCS-1A
+  Muhammad Shahzad","CAL BCS-1A
+  Urooj","AP BSE-1A
+ Muhammad Rahim","PF BCS-1C
+  Sobia Iftikhar","FE BCS-1C
+  Nazia Imam","CAL BCS-1G
+  Fareeha Sultan","AP BCS-1G
+  Rabia Tabbasum","AP BCS-1C
+  Rabia Tabbasum"
+E-34 EE (52),"PF BCS-1J
+  Dr. Farooque Hassan","CAL BCS-1J
+  Alishba Tariq","IRS BCS-1J
+  Farhan Ali Memon","CAL BCS-1E
+  Urooj","CAL BCY-1B
+  Alishba Tariq","CAL BCS-1C
+  Urooj","AP BCS-1H
+  Muhammad Rahim","CAL BCS-1H
+  Fareeha Sultan"
+E-35 EE (52),"CAL BCS-1B
+  Nadeem Khan","PF BCY-1A
+  Dr. Abdul Aziz","AP BCS-1B
+  Waqar Ahmed","AP BCS-1J
+  Muhammad Rahim",,,"AP BCY-1B
+  Javed Qureshi",
+B-9 EE (53),,"DS BSR-3C
+  Dr. Anam Qureshi",Reserved for FSM,,,"SQE BSE-5B
+  Rubab Manzar","PF BSE-1A
+  Dr. Abdul Aziz","PF BSE-1A
+  Dr. Abdul Aziz"
+B-10 EE (53),"Discrete BAI-3C
+  Ayesha Ali","DS BCS-3G
+  Basit Ali","DS BCS-3C
+  Dr. Fahad Sherwani","PF BCS-1B
+  Basit Ali",,,"Discrete BAI-3C
+  Ayesha Ali","SRE BSE-3B
+  Dr. Syed Muazzam Ali"
+B-11 EE (72),"POE BSE-3A
+  Michael Simon","NCYS-1 BCY-3A
+  Dr. Fahad Samad","DS BSE-3B
+  Dr. Farrukh Hassan","DS BAI-3B
+  Sania Urooj","LA BSE-3A
+  Fareeha Sultan","DS BSE-3A
+  Fizza Manssor","SRE BSE-3A
+  Dr. Syed Muazzam Ali",
+C-12 EE (50),"PROB BCY-3A
+  Moheez ur Rahim","DS BCS-3B
+  Dr. Fahad Sherwani","Discrete BCY-3A
+  Shoaib Raza",,"Psych BCS-A,B - 3A 
+  Aqsa Fayyaz","Discrete BCY-3B
+  Shoaib Raza","CN BCY-5B
+  Shoaib Raza","NCYS-1 BCY-3B
+  Dr. Fahad Samad"
+C-16 EE (50),"DS BCS-3F
+  Mubashra Fayyaz","DS BAI-3B
+  Sania Urooj","Discrete BCS-3H
+  Mafaza Mohi","Discrete BAI-3A
+  Hania Usman","Psych BCS-B,C - 3B
+  Rabia Ejaz","PAI BAI-3A
+  Saeeda Kanwal","PAI BAI-3A
+  Saeeda Kanwal","Discrete BSR-3B
+  Fahad Hussain"
+C-17 EE (59),"COAL BSR-3B
+  Aashir Mahboob","LA BSE-3B
+  Fareeha Sultan","PAI BAI-3C
+  Omer Qureshi","HCI BSE-3B
+  Iqra Fahad","IR BCS-A, B, C - 3A
+  Dr Shahnawaz","Discrete BCS-3B
+  Bakhtawar","IR BCS-G, H, J, K - 3C
+  Dr Shahnawaz","IR BCS-G, H, J, K - 3C
+  Dr Shahnawaz"
+C-18 EE (50),"DS BAI-3A
+  Sania Urooj","HCI BSE-3A
+  Iqra Fahad","Discrete BAI-3B
+  Hania Usman","IR BCS-D, E, F - 3B
+  Dr Shahnawaz","COAL BCS-3K
+  Atiya Jokhio","LA BSR-3A
+  Mairaj","LA BSR-3A
+  Mairaj",
+C-19 EE (50),"PAI BAI-3B
+  Saeeda Kanwal","Discrete BAI-3A
+  Hania Usman","COAL BSR-3C
+  Amir Ali","Psych BCS-J, K - 3G
+  Kauser Malik","COAL BSR-3A
+  Asim Mehmood","Discrete BSR-3B
+  Fahad Hussain","PROB BCY-3B
+  Moheez ur Rahim",
+C-21 EE (50),"COAL BSR-3C
+  Amir Ali","DS BCS-3J
+  Sobia Iftikhar","LA BSR-3B
+  Alishba Tariq","COAL BCY-3B
+  Kariz Kamal","POE BSR B, C - 3B
+  Michael Simon","COAL BCS-3F
+  M Ali Fatmi","LA BCS-3B
+  Shahid Ashraf","LA BCS-3B
+  Shahid Ashraf"
+D-22 EE (50),"Discrete BCS-3B
+  Bakhtawar","Discrete BCS-3C
+  Bakhtawar","COAL BCS-3J
+  Asim Mehmood","Psych BCS-D,E - 3C
+  Aqsa Fayyaz","LA BCS-3J
+  Dr. Khusro Mian",Reserved for M. Waqas,Reserved for M. Waqas,Reserved for M. Waqas
+D-23 EE (50),"Discrete BCS-3H
+  Mafaza Mohi","DS BCS-3H
+  Mubashra Fayyaz","LA BCS-3F
+  Shahid Ashraf","Psych BCS-E, F - 3D
+  Rabia Ejaz","DS BCS-3G
+  Basit Ali","COAL BCY-3A
+  Kariz Kamal","COAL BCY-3A
+  Kariz Kamal","DE BCS-3A
+  Fahad Riaz"
+D-26 EE (50),,"Psych BCS-E, F - 3D
+  Rabia Ejaz","LA BCS-3E
+  Dr. Khusro Mian","DE BCS-3B
+  Nadeem Khan","LA BCS-3H
+  Moheez ur Rahim","LA BCS-3H
+  Moheez ur Rahim",Reserved for Kauser Malik,
+D-27 EE (50),,"Psych BCS-D,E - 3C
+  Aqsa Fayyaz","COAL BCS-3G
+  M Ali Fatmi",,"DS BAI-3C
+  Farooq Zaidi","DS BAI-3C
+  Farooq Zaidi",,
+D-28 EE (50),,,Reserved for EE,,,,,
+LLC(R7) (50),"FE LAB BCS-1G
+  Aisha Khan",,,,,"FE LAB BCS-1B
+  Atifa Batool",,
+C-20 EE (50),"FE LAB BCS-1H 
+  Khadija Shereen",,,,,"FE LAB BCY-1A
+  Aisha Khan",,
+LABS,,,,,,,,
+CS LAB-1 (50),"PF LAB BCS-1C
+  Zainab Asif",,,"PDC BCS-5H
+  Dr. Nadeem Kafi","SDA BCS-5A
+  Dr. Muazzam Ali","DS LAB BCS-3D
+  Muhammad Monis",,
+CS LAB-2 (40),Reserved for EE,,,,"SDA BCS-5G
+  Rubab Manzar",Reserved for EE,,
+CS LAB-4 (50),"ICT LAB BCS-1E
+  Muhammad Hammad",,,"PDC BCS-5E
+  Dr. Nousheen","SDA BCS-5K
+  Romasha Khurshid","PF LAB BCS-1J
+  Shafique Rehman",,
+CS LAB-5 (50),,,,"SDA BCS-5C
+  Nida Munawwar","NCYS-1 BCY-3A
+  Dr. Fahad Samad",Reserved for EE,,
+CS LAB-6 (50),"DS LAB BCS-3K
+  Taha Ahmed",,,"SDA BCS-5F
+  Noureen Fatima","PDC BCS-5F
+ Syed Syed Faisal Ali","COAL LAB BCS-3A
+  Aashir Mehboob",,
+EE LAB-7 (50),"COAL LAB BCY-3B
+  Rukhsar Ali",,,,,"COAL LAB BSR-3C
+  Muhammad Nadeem",,
+EE LAB-8 (50),"SDA BCS-5D
+  Javeria Farooq",,,,,"DS LAB BAI-3B
+ Sameer Faisal",,
+EE LAB-10 (50),"PF LAB BCS-1F
+  Yasir Arafat",,,,,"PF LAB BCS-1A
+  Atiya jokhio",,
+EE LAB-11 (51),"COAL LAB BSR-3A
+  Kashan Hussain",,,,,"COAL LAB BCS-3C
+  Misbah Haider",,
+EE LAB-12 (51),"DS LAB BCS-3A
+  Safia Baloch",,,,Reserved for ACM Workshop,"DS LAB BCS-3E
+  Mahnoor Javed",,
+EE LAB-13 (51),"PF LAB BCY-1B
+Mahnoor Javed",,,Reserved for ACM Workshop,"DB BCS LAB-5J
+  Shaheer Ahmed",,,
