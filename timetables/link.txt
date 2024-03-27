@@ -4,44 +4,47 @@ https://docs.google.com/spreadsheets/d/1eaYmlBelcQV3kkb20QpZ-uXF-KLTHHP5fa3D9qPW
 
 
 
-[nan 
-'SCD BSE-5B\n  
-Naz Memon' 
-nan 
-'SDA BCS-5E\n  Nida Munawwar' 
-nan
-'Algo BCS-5C\n  Dr. Farrukh Salim' 
-nan 
-'DB BCS-5H\n  Fizza Aqeel'
-'KRR BAI-5B\n  Dr. M. Rafi' 
-'Algo BCS-5J\n  Anaum Hamid'
-'CN BCY-5A\n  Muhammad Ali' 
-'DB BSE-5A\n  M Ali Fatmi' nan
-'FE BCS-1D\n  Huma Hafeez' 
-'PF BCS-1A\n  Muhammad Shahzad'
-'PF BCS-1J\n  Dr. Farooque Hassan' 
-'CAL BCS-1B\n  Nadeem Khan' nan
-'Discrete BAI-3C\n  Ayesha Ali' 
-'POE BSE-3A\n  Michael Simon'
-'PROB BCY-3A\n  Moheez ur Rahim' 
-'DS BCS-3F\n  Mubashra Fayyaz'
-'COAL BSR-3B\n  Aashir Mahboob' 
-'DS BAI-3A\n  Sania Urooj'
-'PAI BAI-3B\n  Saeeda Kanwal' 
-'COAL BSR-3C\n  Amir Ali'
-'Discrete BCS-3B\n  Bakhtawar' 
-'Discrete BCS-3H\n  Mafaza Mohi' nan nan
-nan 
-'FE LAB BCS-1G\n  Aisha Khan' 
-'FE LAB BCS-1H \n  Khadija Shereen' nan
-'PF LAB BCS-1C\n  Zainab Asif' 
-'Reserved for EE'
-'ICT LAB BCS-1E\n  Muhammad Hammad' 
-nan 
-'DS LAB BCS-3K\n  Taha Ahmed'
-'COAL LAB BCY-3B\n  Rukhsar Ali' 
-'SDA BCS-5D\n  Javeria Farooq'
-'PF LAB BCS-1F\n  Yasir Arafat' 
-'COAL LAB BSR-3A\n  Kashan Hussain'
-'DS LAB BCS-3A\n  Safia Baloch' 
-'PF LAB BCY-1B\nMahnoor Javed']
+{
+'E1 CS(50)': {'status': 'occupied', 'section': 'BSE-5B\n', 'course': 'SCD', 'teacher': 'Naz Memon'}, 
+'E2 CS (50)': {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}, 
+'E3 CS (50)': {'status': 'occupied', 'section': 'BCS-5E\n', 'course': 'SDA', 'teacher': 'Nida Munawwar'}, 
+'E4 CS (50)': {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}, 
+'E5 CS (50)': {'status': 'occupied', 'section': 'BCS-5C\n', 'course': 'Algo', 'teacher': 'Dr. Farrukh Salim'}, 
+'E6 CS (50)': {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}, 
+'R11 CS (50)': {'status': 'occupied', 'section': 'BCS-5H\n', 'course': 'DB', 'teacher': 'Fizza Aqeel'}, 
+'R12 CS (70)': {'status': 'occupied', 'section': 'BAI-5B\n', 'course': 'KRR', 'teacher': 'Dr. M. Rafi'}, 
+'R109 CS (50)': {'status': 'occupied', 'section': 'BCS-5J\n', 'course': 'Algo', 'teacher': 'Anaum Hamid'}, 
+'E-29 EE (52)': {'status': 'occupied', 'section': 'BCY-5A\n', 'course': 'CN', 'teacher': 'Muhammad Ali'}, 
+'E-30 EE (52)': {'status': 'occupied', 'section': 'BSE-5A\n', 'course': 'DB', 'teacher': 'M Ali Fatmi'}, 
+'E-31 EE (52)': {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}, 
+'E-32 EE (52)': {'status': 'occupied', 'section': 'BCS-1D\n', 'course': 'FE', 'teacher': 'Huma Hafeez'}, 
+'E-33 EE (52)': {'status': 'occupied', 'section': 'BCS-1A\n', 'course': 'PF', 'teacher': 'Muhammad Shahzad'}, 
+'E-34 EE (52)': {'status': 'occupied', 'section': 'BCS-1J\n', 'course': 'PF', 'teacher': 'Dr. Farooque Hassan'}, 
+'E-35 EE (52)': {'status': 'occupied', 'section': 'BCS-1B\n', 'course': 'CAL', 'teacher': 'Nadeem Khan'}, 
+'B-9 EE (53)': {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}, 
+'B-10 EE (53)': {'status': 'occupied', 'section': 'BAI-3C\n', 'course': 'Discrete', 'teacher': 'Ayesha Ali'}, 
+'B-11 EE (72)': {'status': 'occupied', 'section': 'BSE-3A\n', 'course': 'POE', 'teacher': 'Michael Simon'}, 
+'C-12 EE (50)': {'status': 'occupied', 'section': 'BCY-3A\n', 'course': 'PROB', 'teacher': 'Moheez ur Rahim'}, 
+'C-16 EE (50)': {'status': 'occupied', 'section': 'BCS-3F\n', 'course': 'DS', 'teacher': 'Mubashra Fayyaz'}, 
+'C-17 EE (59)': {'status': 'occupied', 'section': 'BSR-3B\n', 'course': 'COAL', 'teacher': 'Aashir Mahboob'}, 
+'C-18 EE (50)': {'status': 'occupied', 'section': 'BAI-3A\n', 'course': 'DS', 'teacher': 'Sania Urooj'}, 
+'C-19 EE (50)': {'status': 'occupied', 'section': 'BAI-3B\n', 'course': 'PAI', 'teacher': 'Saeeda Kanwal'}, 
+'C-21 EE (50)': {'status': 'occupied', 'section': 'BSR-3C\n', 'course': 'COAL', 'teacher': 'Amir Ali'}, 
+'D-22 EE (50)': {'status': 'occupied', 'section': 'BCS-3B\n', 'course': 'Discrete', 'teacher': 'Bakhtawar'}, 
+'D-23 EE (50)': {'status': 'occupied', 'section': 'BCS-3H\n', 'course': 'Discrete', 'teacher': 'Mafaza Mohi'}, 
+'D-26 EE (50)': {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}, 
+'D-27 EE (50)': {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}, 
+'D-28 EE (50)': {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}, 
+'LLC(R7) (50)': {'status': 'occupied', 'section': 'LAB', 'course': 'FE', 'teacher': 'BCS-1G\n Aisha Khan'}, 
+'C-20 EE (50)': {'status': 'occupied', 'section': 'LAB', 'course': 'FE', 'teacher': 'BCS-1H \n Khadija Shereen'}, 
+'CS LAB-1 (50)': {'status': 'occupied', 'section': 'LAB', 'course': 'PF', 'teacher': 'BCS-1C\n Zainab Asif'}, 
+'CS LAB-2 (40)': {'status': 'occupied', 'section': 'for', 'course': 'Reserved', 'teacher': 'EE'}, 
+'CS LAB-4 (50)': {'status': 'occupied', 'section': 'LAB', 'course': 'ICT', 'teacher': 'BCS-1E\n Muhammad Hammad'}, 
+'CS LAB-5 (50)': {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}, 
+'CS LAB-6 (50)': {'status': 'occupied', 'section': 'LAB', 'course': 'DS', 'teacher': 'BCS-3K\n Taha Ahmed'}, 
+'EE LAB-7 (50)': {'status': 'occupied', 'section': 'LAB', 'course': 'COAL', 'teacher': 'BCY-3B\n Rukhsar Ali'}, 
+'EE LAB-8 (50)': {'status': 'occupied', 'section': 'BCS-5D\n', 'course': 'SDA', 'teacher': 'Javeria Farooq'}, 
+'EE LAB-10 (50)': {'status': 'occupied', 'section': 'LAB', 'course': 'PF', 'teacher': 'BCS-1F\n Yasir Arafat'}, 
+'EE LAB-11 (51)': {'status': 'occupied', 'section': 'LAB', 'course': 'COAL', 'teacher': 'BSR-3A\n Kashan Hussain'}, 
+'EE LAB-12 (51)': {'status': 'occupied', 'section': 'LAB', 'course': 'DS', 'teacher': 'BCS-3A\n Safia Baloch'}, 
+'EE LAB-13 (51)': {'status': 'occupied', 'section': 'LAB', 'course': 'PF', 'teacher': 'BCY-1B\nMahnoor Javed'}}
