@@ -1,3 +1,47 @@
 link to actual Timetable
 
 https://docs.google.com/spreadsheets/d/1eaYmlBelcQV3kkb20QpZ-uXF-KLTHHP5fa3D9qPWHx4/edit#gid=1132706824
+
+
+
+[nan 
+'SCD BSE-5B\n  
+Naz Memon' 
+nan 
+'SDA BCS-5E\n  Nida Munawwar' 
+nan
+'Algo BCS-5C\n  Dr. Farrukh Salim' 
+nan 
+'DB BCS-5H\n  Fizza Aqeel'
+'KRR BAI-5B\n  Dr. M. Rafi' 
+'Algo BCS-5J\n  Anaum Hamid'
+'CN BCY-5A\n  Muhammad Ali' 
+'DB BSE-5A\n  M Ali Fatmi' nan
+'FE BCS-1D\n  Huma Hafeez' 
+'PF BCS-1A\n  Muhammad Shahzad'
+'PF BCS-1J\n  Dr. Farooque Hassan' 
+'CAL BCS-1B\n  Nadeem Khan' nan
+'Discrete BAI-3C\n  Ayesha Ali' 
+'POE BSE-3A\n  Michael Simon'
+'PROB BCY-3A\n  Moheez ur Rahim' 
+'DS BCS-3F\n  Mubashra Fayyaz'
+'COAL BSR-3B\n  Aashir Mahboob' 
+'DS BAI-3A\n  Sania Urooj'
+'PAI BAI-3B\n  Saeeda Kanwal' 
+'COAL BSR-3C\n  Amir Ali'
+'Discrete BCS-3B\n  Bakhtawar' 
+'Discrete BCS-3H\n  Mafaza Mohi' nan nan
+nan 
+'FE LAB BCS-1G\n  Aisha Khan' 
+'FE LAB BCS-1H \n  Khadija Shereen' nan
+'PF LAB BCS-1C\n  Zainab Asif' 
+'Reserved for EE'
+'ICT LAB BCS-1E\n  Muhammad Hammad' 
+nan 
+'DS LAB BCS-3K\n  Taha Ahmed'
+'COAL LAB BCY-3B\n  Rukhsar Ali' 
+'SDA BCS-5D\n  Javeria Farooq'
+'PF LAB BCS-1F\n  Yasir Arafat' 
+'COAL LAB BSR-3A\n  Kashan Hussain'
+'DS LAB BCS-3A\n  Safia Baloch' 
+'PF LAB BCY-1B\nMahnoor Javed']
