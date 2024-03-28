@@ -4,13 +4,15 @@ import numpy as np
 timetable = {}
 classrooms = {}
 slots = {}
-labs_to_be_adjusted = []
 
 monday_data = pd.read_csv('./timetables/monday.csv', skiprows=1)
 tuesday_data = pd.read_csv('./timetables/tuesday.csv', skiprows=1)
 wednesday_data = pd.read_csv('./timetables/wednesday.csv', skiprows=1)
 thursday_data = pd.read_csv('./timetables/thursday.csv', skiprows=1)
 friday_data = pd.read_csv('./timetables/friday.csv', skiprows=1)
+
+days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday']
+dataframes = []
 
 def appendObject(slot, class_index, obj):
     # print(slot, classrooms[class_index], obj)
@@ -83,6 +85,12 @@ def makeObject(slot, slot_data):
             slot_object['teacher'] = ' '.join(name)
             slot_object['status'] = 'occupied'
         appendObject(slot, key, slot_object)
+
+def read_data():
+
+    for index,day in enumerate(days):
+        dataframes[index] = pd.read_csv('./timetables/monday.csv', skiprows=1)
+
 
 def convertToDictionary(day_data):
     slots = day_data.iloc[0].size - 1
