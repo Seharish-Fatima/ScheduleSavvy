@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 
+day_timetable = {}
 timetable = {}
 classrooms = {}
 slots = {}
@@ -17,12 +18,12 @@ dataframes = []
 def appendObject(slot, class_index, obj):
     # print(slot, classrooms[class_index], obj)
     
-    if str(slot) not in timetable:
-        timetable[str(slot)] = {}
+    if str(slot) not in day_timetable:
+        day_timetable[str(slot)] = {}
 
     if obj['status'] == 'empty':
-        if classrooms[class_index] not in timetable[str(slot)]:
-            timetable[str(slot)][classrooms[class_index]] = obj  
+        if classrooms[class_index] not in day_timetable[str(slot)]:
+            day_timetable[str(slot)][classrooms[class_index]] = obj  
         else:
             pass  
     else:
@@ -33,24 +34,24 @@ def appendObject(slot, class_index, obj):
             obj['course'] = obj['course'] + '-LAB'
             # lab_key = (obj['course'], obj['section'])
             # labs_to_be_adjusted.append(lab_key)
-            timetable[str(slot)][classrooms[class_index]] = obj
+            day_timetable[str(slot)][classrooms[class_index]] = obj
             adjust_labs(slot, class_index, obj)
 
-        timetable[str(slot)][classrooms[class_index]] = obj
+        day_timetable[str(slot)][classrooms[class_index]] = obj
 
 def adjust_labs(slot, class_index, obj):
     # print('adjust labs called')
     for i in range(1,3):
-        if str(slot+i) not in timetable:
+        if str(slot+i) not in day_timetable:
             print('slot not exists, created')
-            timetable[str(slot+i)] = {}
-            timetable[str(slot+i)][classrooms[class_index]] = obj
-            # print(timetable[str(slot+i)][classrooms[class_index]])
-        elif classrooms[class_index] not in timetable[str(slot+i)]:
+            day_timetable[str(slot+i)] = {}
+            day_timetable[str(slot+i)][classrooms[class_index]] = obj
+            # print(day_timetable[str(slot+i)][classrooms[class_index]])
+        elif classrooms[class_index] not in day_timetable[str(slot+i)]:
             print('class not exists, created')
-            timetable[str(slot+i)][classrooms[class_index]] = {}
-            timetable[str(slot+i)][classrooms[class_index]] = obj
-            # print(timetable[str(slot+i)][classrooms[class_index]])
+            day_timetable[str(slot+i)][classrooms[class_index]] = {}
+            day_timetable[str(slot+i)][classrooms[class_index]] = obj
+            # print(day_timetable[str(slot+i)][classrooms[class_index]])
         
 
 
@@ -87,10 +88,9 @@ def makeObject(slot, slot_data):
         appendObject(slot, key, slot_object)
 
 def read_data():
-
-    for index,day in enumerate(days):
-        dataframes[index] = pd.read_csv('./timetables/monday.csv', skiprows=1)
-
+    for index in range(len(days)):
+        dataframes.append(pd.read_csv('./timetables/{}.csv'.format(days[index]), skiprows=1))
+        print(index, days[index], len(dataframes[index]))
 
 def convertToDictionary(day_data):
     slots = day_data.iloc[0].size - 1
@@ -98,6 +98,8 @@ def convertToDictionary(day_data):
     # slots + 1
     for i in range(1, slots + 1):
         makeObject(i, day_data[str(i)])
+    # print(day_timetable)
+    # return day_timetable
 
 def setSlots(day_data):
     slots_data = day_data.iloc[0].values[1:]
@@ -113,10 +115,11 @@ def setClassrooms(day_data):
         classrooms[i] = classes_data[i]
 
 def main():
+    # read_data()
     setSlots(monday_data)
     setClassrooms(monday_data)
-    convertToDictionary(monday_data)
-    print(timetable)
+    convertToDictionary(monday_data)    
+    print(day_timetable)
 
 if __name__ == "__main__":
     main()
