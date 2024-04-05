@@ -81,6 +81,7 @@ def makeObject(slot, slot_data):
         value_data = value.split(' ')
         if value_data[0] != 'empty':
             slot_object['course'] = value_data[0]
+            print(slot_object['course'])
             slot_object['section'] = value_data[1].strip()
             name = [x for x in value_data[2:] if x != '']
             slot_object['teacher'] = ' '.join(name)
@@ -105,7 +106,12 @@ def setSlots(day_data):
     slots_data = day_data.iloc[0].values[1:]
 
     for i in range(len(slots_data)):
-        slots[i] = slots_data[i]
+        if pd.isna(slots_data[i]):
+            pass
+        else:
+            slots[i] = slots_data[i]
+    
+    print(slots)
 
 def setClassrooms(day_data):
     classes_data = day_data['Slots'].values[2:]
@@ -115,11 +121,13 @@ def setClassrooms(day_data):
         classrooms[i] = classes_data[i]
 
 def main():
-    # read_data()
-    setSlots(monday_data)
-    setClassrooms(monday_data)
-    convertToDictionary(monday_data)    
-    print(day_timetable)
+    read_data()
+    # for i in range(len(days)):
+    setSlots(dataframes[4])
+    setClassrooms(dataframes[4])
+    # convertToDictionary(dataframes[4])    
+    # print(day_timetable)
+    # print(dataframes[4])
 
 if __name__ == "__main__":
     main()
