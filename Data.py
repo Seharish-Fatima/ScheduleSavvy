@@ -55,7 +55,8 @@ def adjust_labs(slot, class_index, obj):
         
 
 
-def makeObject(slot, slot_data):
+def makeObject(slot, slot_data, day_no):
+
     data = slot_data.values[2:]
 
     # assign 'empty' to free slots
@@ -93,12 +94,14 @@ def read_data():
         dataframes.append(pd.read_csv('./timetables/{}.csv'.format(days[index]), skiprows=1))
         print(index, days[index], len(dataframes[index]))
 
-def convertToDictionary(day_data):
-    slots = day_data.iloc[0].size - 1
+def convertToDictionary(day_data, day_no):
+    slots_length = len(slots) - 1
+    print(slots_length)
 
     # slots + 1
-    for i in range(1, slots + 1):
-        makeObject(i, day_data[str(i)])
+    for i in range(1, slots_length + 1):
+        print('slot no :', slots[i-1])
+        makeObject(i, day_data[str(i)], day_no)
     # print(day_timetable)
     # return day_timetable
 
@@ -125,8 +128,8 @@ def main():
     # for i in range(len(days)):
     setSlots(dataframes[4])
     setClassrooms(dataframes[4])
-    # convertToDictionary(dataframes[4])    
-    # print(day_timetable)
+    convertToDictionary(dataframes[4], 4)    
+    print(day_timetable)
     # print(dataframes[4])
 
 if __name__ == "__main__":
