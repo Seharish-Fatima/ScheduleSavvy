@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 
-day_timetable = {}
 timetable = {}
 classrooms = {}
 slots = {}
@@ -15,7 +14,7 @@ friday_data = pd.read_csv('./timetables/friday.csv', skiprows=1)
 days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday']
 dataframes = []
 
-def appendObject(slot, class_index, obj):
+def appendObject(day_timetable, slot, class_index, obj):
     # print(slot, classrooms[class_index], obj)
     
     if str(slot) not in day_timetable:
@@ -35,11 +34,11 @@ def appendObject(slot, class_index, obj):
             # lab_key = (obj['course'], obj['section'])
             # labs_to_be_adjusted.append(lab_key)
             day_timetable[str(slot)][classrooms[class_index]] = obj
-            adjust_labs(slot, class_index, obj)
+            adjust_labs(day_timetable, slot, class_index, obj)
 
         day_timetable[str(slot)][classrooms[class_index]] = obj
 
-def adjust_labs(slot, class_index, obj):
+def adjust_labs(day_timetable, slot, class_index, obj):
     # print('adjust labs called')
     for i in range(1,3):
         if str(slot+i) not in day_timetable:
@@ -55,7 +54,7 @@ def adjust_labs(slot, class_index, obj):
         
 
 
-def makeObject(slot, slot_data, day_no):
+def makeObject(day_timetable, slot, slot_data, day_no):
 
     data = slot_data.values[2:]
 
@@ -87,23 +86,24 @@ def makeObject(slot, slot_data, day_no):
             name = [x for x in value_data[2:] if x != '']
             slot_object['teacher'] = ' '.join(name)
             slot_object['status'] = 'occupied'
-        appendObject(slot, key, slot_object)
+        appendObject(day_timetable, slot, key, slot_object)
 
 def read_data():
     for index in range(len(days)):
         dataframes.append(pd.read_csv('./timetables/{}.csv'.format(days[index]), skiprows=1))
         print(index, days[index], len(dataframes[index]))
 
-def convertToDictionary(day_data, day_no):
+def convertToDictionary(day_timetable, day_data, day_no):
     slots_length = len(slots) - 1
     print(slots_length)
 
     # slots + 1
     for i in range(1, slots_length + 1):
         print('slot no :', slots[i-1])
-        makeObject(i, day_data[str(i)], day_no)
+        makeObject(day_timetable, i, day_data[str(i)], day_no)
     # print(day_timetable)
     # return day_timetable
+    return day_timetable
 
 def setSlots(day_data):
     slots_data = day_data.iloc[0].values[1:]
@@ -124,12 +124,16 @@ def setClassrooms(day_data):
         classrooms[i] = classes_data[i]
 
 def main():
+
     read_data()
-    # for i in range(len(days)):
-    setSlots(dataframes[4])
-    setClassrooms(dataframes[4])
-    convertToDictionary(dataframes[4], 4)    
-    print(day_timetable)
+    for i in range(len(days)):
+        setSlots(dataframes[i])
+        setClassrooms(dataframes[i])
+        day_timetable = {}
+        timetable[days[i]] = convertToDictionary(day_timetable, dataframes[i], i)  
+        day_timetable = {}
+    
+    print(timetable['friday'])
     # print(dataframes[4])
 
 if __name__ == "__main__":
