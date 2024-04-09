@@ -5,11 +5,11 @@ timetable = {}
 classrooms = {}
 slots = {}
 
-monday_data = pd.read_csv('./timetables/monday.csv', skiprows=1)
-tuesday_data = pd.read_csv('./timetables/tuesday.csv', skiprows=1)
-wednesday_data = pd.read_csv('./timetables/wednesday.csv', skiprows=1)
-thursday_data = pd.read_csv('./timetables/thursday.csv', skiprows=1)
-friday_data = pd.read_csv('./timetables/friday.csv', skiprows=1)
+# monday_data = pd.read_csv('./timetables/monday.csv', skiprows=1)
+# tuesday_data = pd.read_csv('./timetables/tuesday.csv', skiprows=1)
+# wednesday_data = pd.read_csv('./timetables/wednesday.csv', skiprows=1)
+# thursday_data = pd.read_csv('./timetables/thursday.csv', skiprows=1)
+# friday_data = pd.read_csv('./timetables/friday.csv', skiprows=1)
 
 days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday']
 dataframes = []
