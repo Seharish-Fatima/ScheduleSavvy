@@ -1,0 +1,1401 @@
+Day,Venues,8:00 AM,9:00 AM,10:00 AM,11:00 AM,12:00 PM,1:00 PM,2:00 PM,3:00 PM
+Monday,E1,"CN BCS-6A
+ Dr. Farrukh Salim","FSPM BCS-6A
+ Ubaid Aftab  ","IR BCS-6B
+Dr. Muhammad Rafi ","SE BCS-6A
+Farrukh Hassan Syed","TBW BCS-6B
+Javeria Ali","AI BCS-6A
+Dr. Fahad Sherwani","SE BCS-6E
+Javeria Farooq","TBW BCS-6A
+ Atifa Batool"
+Monday,E2,"ANN BAI-6A
+ Dr. Maria","DS BCS-6A
+Dr. Nouman Durrani","FSPM BCS-6B
+ Ubaid Aftab  ","AI BCS-6B
+ Dr. Fahad Sherwani",,"TBW BCS-6D
+  Atifa Batool","AI BCS-6D
+Syed Faisal Ali",
+Monday,E3,"AI BCS-6F
+Mafaza Mohi","IR BCS-6A 
+Dr. Muhammad Rafi ","DS BCS-6B
+Dr. Nouman Durrani","SE BCS-6F
+ Javeria Farooq","SDA BSE-4B
+ Rubab Manzar","IS BCY-6B
+ Dr. Fahad Samad","AI BCS-6K
+Dr. Fahad Sherwani","TBW BCS-6E
+Javeria Ali"
+Monday,E4,"TBW BCS-6K
+Atifa Batool","IR BCS-6C
+Basit Ali","AI BCS-6C
+Farrukh Hassan Syed","NCYS II BCY-6A
+Shoaib Raza",,"AI BCS-6G
+Fizza Aqeel","NCYS II BCY-6B
+Shoaib Raza",
+Monday,E5,"AI BCS-6B
+Dr. Fahad Sherwani","IIOT BCS-6A 
+Dr. Anam Qureshi ",,"TBW BCS-6J
+Atifa Batool","CN BAI-6A
+ Rafia","CN BCS-6H
+ Yusra Kaleem","SE BCS-6B
+ Farrukh Hassan Syed",
+Monday,E6,"CN BAI-6B
+ Rafia","WP BCS -6A 
+Abdul Rahman ","VARE BCY-6A
+ Abuzar Zafar","WE BSE-6A
+ Ali Fatmi","BPE BSE-6A
+ Dr. Abdul Aziz","SDA BSE-4A
+ Rubab Manzar","TBW BCS-6F
+Javeria Ali","SE BCS-6F
+Javeria Farooq"
+Monday,R11,,"NPS BCY-6A
+ Shoaib Raza","SEE BSE-6B
+ Iqra Fahad","SEE BSE-6B
+ Iqra Fahad","ANN BAI-6B
+ Dr. Maria","AI BCS-6E
+Mafaza Mohi","BPE BSE-6B
+ Dr. Abdul Aziz","AI BCY-6B
+ Sandesh Kumar"
+Monday,R12,,"DLP BCS-6A
+ Dr. Jawwad Shamsi ",,"TBW BCS-6H
+Madiha Rehman","IS BCS-8A
+Dr. Zulfiqar Memon",,"IS BCS-8A
+Dr. Zulfiqar Memon",
+Monday,R109,,,,,,,,
+Monday,A-7,"Prob BCS-4A
+Muhammad Amjad","OS BCS-4A
+Dr. Nadeem Kafi",,"NC BCS-4A
+ Usama Antuley","TOA BCS-4A
+ Shaharbano",,"DS BSE-4A (BSE, BAI)
+Fahad Hussain","DS BCS-4C (BSR-A,B,C)
+Fahad Hussain"
+Monday,B-9,"WE BSE-6B
+ Ali Fatmi","SEE BSE-6A
+ Iqra Fahad","TBW BCY-4A
+ Sameera Sultan","VARE BCY-6B
+ Muhammad Nouman Rajput","CN BCS-6G
+ Yusra Kaleem","CN BSE-6B
+ Hira Tunio",,"DS BCS-4A (A,B,C,D,E, BCY)
+Dr. Anam Qureshi"
+Monday,C-14,,"EHCP BCS-6A
+Shahbaz Siddiqui","NC BCS-4K
+ Moheez ur Rahim","TBW BCS-6G
+Khadija Shereen","FSPM BCS-6B
+ Ubaid Aftab  ",,,
+Monday,C-16,,"FSE BCY-4A
+ Rubab Manzar","Prob BSR-4A
+ Nadeem Khan","TBW BCS-6C
+Sameera Sultan","COAL BAI-4C
+Bilal Ahsan",,,
+Monday,C-17,"Prob BSR-4C
+Alishba Tariq","AI BAI-4B
+ Saeeda Kanwal","NC BSR-4B
+ Mairaj",,"COAL BAI-4A
+Muhammad Usman",,"OS BAI-4A
+ Saeeda Kanwal","AI BAI-4A
+ Farooq Zaidi"
+Monday,C-18,"TBW BCY-4B
+ Sameera Sultan","NC BSR-4C
+Mairaj","Prob BCS-4D
+ Urooj","CAL BCS-2A
+ Jamil Usmani","Prob BCS-4E
+ Moheez ur Rahim","Prob BCS-4B
+Urooj","COAL BAI-4C
+Bilal Ahsan","AI BAI-4C
+Dr. Maria"
+Monday,C-19,"OS BSR-4A
+Mubashra Fayyaz","Prob BCS-4K
+ Urooj","TOA BCS-4G
+ Bakhtawar","NC BCS-4B
+ Nadeem Khan","DS BCS-4B (F,G,H,J,K)
+Dr. Anam Qureshi","Prob BCS-4G
+Moheez ur Rahim",,"OS BSE-4A
+ Minhal Raza"
+Monday,C-20,"EW Lab BCS-2C
+Khadija Shereen",,,,,"EW Lab BCS-2G
+Sharmeen Ismail",,
+Monday,C-21,"OS BAI-4B
+ Saeeda Kanwal","Prob BCS-4H
+ Muhammad Amjad","Prob BCS-4H
+ Muhammad Amjad",,"Prob BSE-4A
+Abdul Basit","Prob BSE-4B
+Abdul Basit",,"OR BSE-4B
+ Dr. Khusro Mian"
+Monday,D-22,"OS BSR-4B
+Safia Baloch",,"OS BCS-4B
+ Dr. Nadeem Kafi","OS BCY-4B
+  Shahbaz Siddiqui","Prob BCS-4F
+ Urooj","NC BSR-4A
+ Mairaj","OS BCS-4C
+Dr. Nausheen Shoaib",
+Monday,D-23,"Prob BCS-4C
+Moheez ur Rahim","TOA BCS-4C
+ Dr. Nasiruddin","OS BCS-4F
+ Anaum Hamid",,"FSE BAI-4B
+ Sania Urooj","Prob BCS-4J
+ Muhammad Amjad",,
+Monday,D-24,"TOA BCS-4E
+ Syed Faisal Ali","OS BCS-4E
+Anaum Hamid","CN BCY-4B
+Muhammad Usman","CN BCY-4A
+ Muhammad Usman","OS BCS-4D
+ Dr. Nausheen Shoaib","NC BCS-4F
+ Usama Antuley","NC BCS-4E
+ Usama Antuley",
+Monday,D-25,"NC BCS-4G
+ Shahid Ashraf","NC BCS-4G
+ Shahid Ashraf","Prob BSR-4C
+Alishba Tariq","OS BSR-4C
+ Safia Baloch","NC BCS-4C
+ Nadeem Khan","NC BCS-4H
+ Dr. Khusro Mian","NC BCS-4D
+ Mairaj",
+Monday,D-26,,"OS BCS-4J
+Mubashra Fayyaz","NC BCS-4J
+ Shahid Ashraf","NC BCS-4J
+ Shahid Ashraf",,,,
+Monday,D-27,,"OOP BCY-2A
+Abeer Gauhar",,,,,,
+Monday,D-28,"DLD BCS-2B
+Rabia Tabassum","OOP BCS-2B
+Sobia Iftikhar","MVC BCS-2B
+Dr. Nazish Kanwal","CN BCS-6D
+ Dr. Farrukh Salim","CN BCS-6K
+Dr. Farrukh Salim ",,"DIS BSE-2A
+Jamil Usmani","ICP BCS-2A
+Dr. Shahnawaz"
+Monday,E-29,"EW BCS-2D
+Faiza Mumtaz","ICP BCS-2D
+Ibrahim Farooqi","MVC BCS-2D
+Fareeha Sultan",,"OOP BCS-2A
+Basit Ali","MVC BCS-2A
+Dr. Fahad Riaz","DLD BCS-2A
+Waqar Ahmed","DLD BCS-2C
+Waqar Ahmed"
+Monday,E-30,"EW BCS-2E
+Maryam","TSC BCS-2E
+Dr. Hassan Saeed",,"OOP BCS-2E
+Abeeha Sattar","ICP BCS-2E
+Dr. Shahnawaz","OOP BCS-2C
+Basit Ali","DLD BCS-2E
+Aashir Mahboob","MVC BCS-2E
+Fareeha Sultan"
+Monday,E-31,"EW BCS-2F
+Nazia Imam","MVC BCS-2F
+Dr. Nazish Kanwal","EW BCY-2A
+Maryam","MVC BCY-2A
+Dr. Nazish Kanwal","ICP BCS-2F
+Ibrahim Farooqi","OOP BCS-2F
+Abeeha Sattar","DLD BCS-2F
+Rabia Tabassum",
+Monday,E-32,"MVC BCS-2G
+Dr. Fahad Riaz","EW BCS-2G
+Faiza Mumtaz","DLD BCS-2G
+Muhammad Rahim",,"TSC BCS-2J
+Dr. Hassan Saeed","ICP BCS-2J
+Dr. Shahnawaz","DLD BCS-2J
+Kashan Hussain",
+Monday,E-33,"ICP BCS-2H
+Ibrahim Farooqi","EW BCS-2H
+Huma Hafeez","DLD BCS-2H
+Kashan Hussain","DE BAI-4A
+ Muhammad Amjad","OOP BCY-2B
+Abeer Gauhar","DLD BCY-2B
+Kariz Kamal","MVC BCY-2B
+Dr. Nazish Kanwal","AP BCS-2A
+Muhammad Rahim"
+Monday,E-34,"OOP BCS-2J
+Bakhtawer","MVC BCS-2J
+Uzma Saleh","ICP BCS-2J
+Dr. Shahnawaz","CAL BCS-2B
+Uzma Saleh","DE BAI-4B
+ Alishba Tariq ","OOP BSE-2A
+Minhal Raza","MVC BCS-2C
+Alishba Tariq","DLD BSE-2A
+Kariz Kamal"
+Monday,E-35,,,,,,,,
+Monday,LLC,"EW Lab BCS-2A
+Aisha Khan","EW Lab BCS-2A
+Aisha Khan","EW Lab BCS-2A
+Aisha Khan",,,"EW Lab BCS-2B
+Khadija Shereen","EW Lab BCS-2B
+Khadija Shereen","EW Lab BCS-2B
+Khadija Shereen"
+Monday,LAB-1,"DLD Lab BCY-2B
+Nouman Hanif","DLD Lab BCY-2B
+Nouman Hanif","DLD Lab BCY-2B
+Nouman Hanif",,,"DLD Lab BCS-2D
+Muhammad Monis","DLD Lab BCS-2D
+Muhammad Monis","DLD Lab BCS-2D
+Muhammad Monis"
+Monday,LAB-2,,,,,,"AI Lab BCY-6A
+ Mehak Mahzar","AI Lab BCY-6A
+ Mehak Mahzar","AI Lab BCY-6A
+ Mehak Mahzar"
+Monday,LAB-4,"OS Lab BSE-4A
+Hira Tunio","OS Lab BSE-4A
+Hira Tunio","OS Lab BSE-4A
+Hira Tunio",,,"OS Lab BCY-4A
+Usama Bin Umar","OS Lab BCY-4A
+Usama Bin Umar","OS Lab BCY-4A
+Usama Bin Umar"
+Monday,LAB-5,,"EHTT BCY-6A
+ Abuzar Zafar",,,"IS BCY-6A
+ Dr. Fahad Samad","CN Lab BCY-4B
+Waseem Rauf","CN Lab BCY-4B
+Waseem Rauf","CN Lab BCY-4B
+Waseem Rauf"
+Monday,LAB-6,"COAL Lab BAI-4A
+Talha Shahid","COAL Lab BAI-4A
+Talha Shahid","COAL Lab BAI-4A
+Talha Shahid",,,"OOP Lab BCY-2A
+Muhammad Ali","OOP Lab BCY-2A
+Muhammad Ali","OOP Lab BCY-2A
+Muhammad Ali"
+Monday,LAB-7,"COAL Lab BAI-4C
+Muhammad Khalid","COAL Lab BAI-4C
+Muhammad Khalid","COAL Lab BAI-4C
+Muhammad Khalid",,,"OS Lab BAI-4B
+Hania Usman","OS Lab BAI-4B
+Hania Usman","OS Lab BAI-4B
+Hania Usman"
+Monday,LAB-8,,,,,,"CN Lab BAI-6A
+ Sameer","CN Lab BAI-6A
+ Sameer","CN Lab BAI-6A
+ Sameer"
+Monday,LAB-10,,,,,,"WE Lab BSE-6A
+Yasir Arafat","WE Lab BSE-6A
+Yasir Arafat","WE Lab BSE-6A
+Yasir Arafat"
+Monday,LAB-11,,,,,,"CN Lab BCS-6J
+Shaheer Ahmed Khan","CN Lab BCS-6J
+Shaheer Ahmed Khan","CN Lab BCS-6J
+Shaheer Ahmed Khan"
+Monday,LAB-12,"OS Lab BSE-4B
+Ali Haider","OS Lab BSE-4B
+Ali Haider","OS Lab BSE-4B
+Ali Haider",,,"CN Lab BAI-6B
+Muhammad Khalid","CN Lab BAI-6B
+Muhammad Khalid","CN Lab BAI-6B
+Muhammad Khalid"
+Monday,LAB-13,,,,,,,,
+Monday,MPI Lab,"DLD Lab BSE-2A
+Nadeem","DLD Lab BSE-2A
+Nadeem","DLD Lab BSE-2A
+Nadeem",,,"DLD Lab BCS-2H
+Misbah Haider","DLD Lab BCS-2H
+Misbah Haider","DLD Lab BCS-2H
+Misbah Haider"
+Tuesday,E1,"DS BCS-8B
+ Omer Qureshi","BIO BCS-8A
+ Dr. Nasiruddin",,"BIO BCS-8A
+ Dr. Nasiruddin","PPIT BAI-8A
+Bilal Ahsan","RS BCS-8B
+ Zain ul Hassan",,
+Tuesday,E2,"DLP BCS-8B
+ Summaiyah Zahid","AML / ML BCS-8A
+ Noureen Fatima","Dis BCS-4A BCS,AI,SE,CY
+ Safia Baloch",,"SRE BSE-8A
+Dr. Muazzam","DDR BCS-8B
+ Abdul Rehman","IB BCS-8C (BCS, BCY, AI, SE)
+ Zehra Mukhtiar",
+Tuesday,E3,,"SDA BSE-4B
+ Rubab Manzar","ADVR BCS-8A (BCS A,B,C)
+ Asiya Zaheer","DLP BCS-8A
+ Summaiyah Zahid","DLP BCS-8B
+ Summaiyah Zahid",,"ADVR BCS-8C (BCY, AI, SE)
+ Asiya Zaheer","ADVR BCS-8B (BCS D,E,F)
+ Asiya Zaheer"
+Tuesday,E4,,"DS BCS-8A
+ Omer Qureshi",,"DS BCS-8A
+ Omer Qureshi",,,,"SRE BSE-8B
+Dr. Muazzam"
+Tuesday,E5,,"DLP BCS-8A
+ Summaiyah Zahid","IPP BCS-8A
+Dr. Shahnawaz","SOA BCS-8A
+ Muhammad Ali","AI BAI-4C
+ Dr. Maria",,"SDA BSE-4A
+ Rubab Manzar",
+Tuesday,E6,"Prob BSR-4B
+ Nadeem Khan","SOA BCS-8A
+ Muhammad Ali","OS BCY-4A
+ Shahbaz Siddiqui",,"FSE BCY-4A
+ Rubab Manzar",,,
+Tuesday,R11,,"OR BSE-4A
+ Dr. Khusro Mian","OS BSE-4A
+ Minhal Raza",,"AI BAI-4B
+ Saeeda Kanwal",,"NC BCS-4B
+ Nadeem Khan",
+Tuesday,R12,"OS BSE-4B
+ Minhal Raza","Gen AI BCS-8A
+ Dr. Atif Tahir","OR BSE-4B
+ Dr. Khusro Mian","Gen AI BCS-8A
+ Dr. Atif Tahir","IS BCS-8A
+Dr. Zulfiqar Memon","TOA BCS-4C
+ Dr. Nasiruddin",,"OS BCY-4A
+ Shahbaz Siddiqui"
+Tuesday,R109,,,,,,,,
+Tuesday,A-7,"OS BCS-4A
+ Dr. Nadeem Kafi","TOA BCS-4A
+Shaharbano",,,"FOA BCS-4A (A,B,C)
+ Dr. Sarfaraz Bhutto",,,
+Tuesday,B-9,"CN BCY-4A
+Muhammad Usman","TBW BCY-4A
+ Sameera Sultan","ENTPR BCS-8A (BCS A,B,C)
+ Dr. Nazia Nazeer","OS BCY-6A
+Dr. Nausheen Shoaib","TBW BCY-4B
+ Sameera Sultan","TOA BCS-4E
+ Syed Faisal Ali","ENTPR BCS-8C (BCY, AI, SE)
+ Dr. Nazia Nazeer","ERP BCS-8B (BCS D,E,F)
+ Dr. Nazia Nazeer"
+Tuesday,C-14,"OS BCY-4B
+ Shahbaz Siddiqui","FSE BCY-4B
+ Dr. Abdul Aziz","CN BCY-4B
+Muhammad Usman","COAL BCS-4A (A,B,C,D,L,M,N)
+ Aashir Mehboob","COAL BCS-4B(E,F,G,H,J,K)
+ Aashir Mehboob","TOA BCS-4G
+ Bakhtawar",,"COAL BAI-4A
+Muhammad Usman"
+Tuesday,C-16,,"OS BSR-4B
+ Safia Baloch","NC BCS-4F
+ Usama Antuley","FOA BCS-4C (F,G,H)
+ Dr. Sarfaraz Bhutto","FOM BCS-4B (D,E,F,G)
+ Asiya Zaheer","ME BAI-4A (A,B,C)
+ Michael Simon","COAL BAI-4B
+Bilal Ahsan","AI BAI-4B
+ Saeeda Kanwal"
+Tuesday,C-17,"TOA BCS-4D
+Dr. Nasiruddin","OS BCS-4D
+ Dr. Nausheen Shoaib","NC BSR-4C
+ Mairaj","FOA BCS-4D (H,J,K)
+Dr. Saad ","FOA BCS-4B (C,D,E)
+ Muhammad Ahsan","Psych BCY-4A (A,B)
+ Rabia Ijaz","FSE BAI-4C
+ Shazia","FSE BAI-4C
+ Shazia"
+Tuesday,C-18,"TOA BCS-4K
+Zain Noreen","TOA BCS-4F
+Syed Faisal Ali","NC BCS-4K
+ Moheez ur Rahim","POE BCS-4B (F,G,H,J,K)
+ Michael Simon","POE BCS-4A (A,B,C,D,E)
+ Michael Simon","FOA BCY-4A (A,B)
+ Dr. Saad","Prob BSE-4B
+Abdul Basit","Prob BSE-4A
+Abdul Basit"
+Tuesday,C-19,"NC BCS-4H
+ Dr. Khusro Mian","TOA BCS-4H
+Dr. Muhammad Shahzad","OS BCS-4H
+ Atiya Jokhio","FOM BCS-4C (H,J,K)
+Ahsan Ali","FOM BCS-4A (A,B,C,D)
+Ahsan Ali","Socio BSE-4A (A,B)
+Kauser Malik","Prob BCS-4C
+ Moheez ur Rahim","NC BCS-4A
+ Usama Antuley"
+Tuesday,C-20,,,,,,EW Lab BCS-2F Nazia Imam,EW Lab BCS-2F Nazia Imam,EW Lab BCS-2F Nazia Imam
+Tuesday,C-21,,"TOA BCS-4J
+Zain Noreen","TOA BSR-4B
+Bakhtawer","Psych BAI-4A (A,B)
+ Aqsa Fayyaz","Psych BSR-4A (A,B)
+ Aqsa Fayyaz",,"NC BCS-4F
+ Usama Antuley","DS BCS-4B (F,G,H,J,K)
+Dr. Anam Qureshi"
+Tuesday,D-22,"FSE BAI-4A
+ Sania Urooj","OS BAI-4A
+ Saeeda Kanwal","TOA BSR-4A
+Dr. Muhammad Shahzad","Psych BAI-4B (B,C)
+ Kauser Malik","Psych BSR-4B (B,C)
+ Kauser Malik",,"FSE BAI-4A
+ Sania Urooj",
+Tuesday,D-23,"TOA BSR-4C
+Dr. Muhammad Shahzad","OS BAI-4C
+ Hania Usman","OS BAI-4C
+ Hania Usman","Psych BSE-4A (A,B)
+ Rabia Ijaz","Socio BSR-4A (A,B,C)
+ Rabia Ijaz",,,
+Tuesday,D-24,"NC BSR-4A
+ Mairaj",,,"OOP BCS-2J
+Bakhtawer",,,,
+Tuesday,D-25,,"Prob BSR-4A
+ Nadeem Khan",,"DE BAI-4B
+ Alishba Tariq ","OS BCS-4J
+ Mubashra Fayyaz",,,
+Tuesday,D-26,"DLD BCS-2F
+Rabia Tabassum","ICP BCS-2F
+Ibrahim Farooqi","EW BCS-2F
+Nazia Imam","DLD BCS-2C
+Waqar Ahmed","EW BCS-2C
+Huma Hafeez","DLD BCS-2A
+Waqar Ahmed","EW BCS-2A
+Huma Hafeez",
+Tuesday,D-27,,"OOP BCS-2G
+Bakhtawer","DLD BCS-2G
+Muhammad Rahim","ICP BCS-2D
+Ibrahim Farooqi","DLD BCS-2B
+Rabia Tabassum","OOP BCS-2B
+Sobia Iftikhar","Ethics (For Non Muslim)
+Kashif Ahmed","ICP BCS-2B
+Kashif Ahmed"
+Tuesday,D-28,,"OOP BCS-2H
+Atiya Jokhio","ICP BCS-2H
+Ibrahim Farooqi","DLD BCS-2H
+Kashan Hussain","AI BAI-4A
+ Farooq Zaidi","OOP BCS-2D
+Sumaiyah Zahid","TSC BCS-2D
+Dr. Shahzad Shaikh","DLD BCS-2D
+Rabia Tabassum"
+Tuesday,E-29,,"DLD BCS-2J
+Kashan Hussain",,"MCV BSE-2A
+Fareeha Sultan","EW BCS-2E
+Maryam","ICP BCS-2E
+Dr. Shahnawaz","DLD BCS-2E
+Aashir Mahboob",
+Tuesday,E-30,"EW BCY-2A
+Maryam","IRS BCY-2A
+Farhan Ali Memon","TSC BCY-2A
+Farhan Ali Memon","MVC BCY-2A
+Dr. Nazish Kanwal","ICP BCS-2A
+Dr. Shahnawaz","OOP BCY-2A
+Abeer Gauhar",,
+Tuesday,E-31,,"TSC BCY-2B
+Muhammad Hasham",,"IRS BCY-2B
+Muhammad Hisham","OOP BCY-2B
+Abeer Gauhar","MVC BCY-2B
+Dr. Nazish Kanwal",,"EW BCY-2B
+Aisha Khan"
+Tuesday,E-32,"MVC BSE-2A
+Fareeha Sultan","ISE BSE-2A
+Iqra Fahad","Ethics (For Non Muslim)
+Kashif Ahmed","DLD BAI-2A
+Sania Urooj","AP BCS-2A
+Muhammad Rahim","DLD BAI-2A
+Sania Urooj",,"AP BCS-2A
+Muhammad Rahim"
+Tuesday,E-33,,"EW BAI-2A
+Nazia Imam","IRS BAI-2A
+Muhammad Hasham","DLD BAI-2B
+Muhammad Rahim",,"DLD BAI-2B
+Muhamamd Rahim",,
+Tuesday,E-34,,,,,,"OOP BSE-2A
+Minhal Raza","ISE BSE-2A
+Iqra Fahad",
+Tuesday,E-35,,,,,,,,
+Tuesday,LLC,,,,,,,,
+Tuesday,LAB-1,"OOP Lab BCS-2A
+Syeda Mahnoor Javed","OOP Lab BCS-2A
+Syeda Mahnoor Javed","OOP Lab BCS-2A
+Syeda Mahnoor Javed",,,,,
+Tuesday,LAB-2,"PF Lab BCS-2A
+Muhammad Aashir","PF Lab BCS-2A
+Muhammad Aashir","PF Lab BCS-2A
+Muhammad Aashir",,,"AML / ML Lab BCS-4A
+Sohail Ahmed","AML / ML Lab BCS-4A
+Sohail Ahmed","AML / ML Lab BCS-4A
+Sohail Ahmed"
+Tuesday,LAB-4,"OOP Lab BCS-2E
+Zainab Asif","OOP Lab BCS-2E
+Zainab Asif","OOP Lab BCS-2E
+Zainab Asif","AML / ML BCS-8A
+ Noureen Fatima",,,,
+Tuesday,LAB-5,"OS Lab BCY-6A
+Muhammad Nouman Rajput","OS Lab BCY-6A
+Muhammad Nouman Rajput","OS Lab BCY-6A
+Muhammad Nouman Rajput",,,"DS Lab BCS-4C (BSR-A,B,C)
+Hafiza Bushra Sattar","DS Lab BCS-4C (BSR-A,B,C)
+Hafiza Bushra Sattar","DS Lab BCS-4C (BSR-A,B,C)
+Hafiza Bushra Sattar"
+Tuesday,LAB-6,"OOP Lab BCS-2D
+Javeria Farooq","OOP Lab BCS-2D
+Javeria Farooq","OOP Lab BCS-2D
+Javeria Farooq",,,"OOP Lab BCS-2G
+Fatima Gado","OOP Lab BCS-2G
+Fatima Gado","OOP Lab BCS-2G
+Fatima Gado"
+Tuesday,LAB-7,"OS Lab BCS-4C
+Mubashra Fayyaz","OS Lab BCS-4C
+Mubashra Fayyaz","OS Lab BCS-4C
+Mubashra Fayyaz",,,"OOP Lab BCS-2H
+Shaharbano","OOP Lab BCS-2H
+Shaharbano","OOP Lab BCS-2H
+Shaharbano"
+Tuesday,LAB-8,"OS Lab BCS-4B
+Anaum Hamid","OS Lab BCS-4B
+Anaum Hamid","OS Lab BCS-4B
+Anaum Hamid",,,"OS Lab BSR-4B
+Ubaidullah","OS Lab BSR-4B
+Ubaidullah","OS Lab BSR-4B
+Ubaidullah"
+Tuesday,LAB-10,"OOP Lab BCS-2B
+Shafique Rehman","OOP Lab BCS-2B
+Shafique Rehman","OOP Lab BCS-2B
+Shafique Rehman",,,"DLD Lab BCS-2C
+Muhammad Afnan","DLD Lab BCS-2C
+Muhammad Afnan","DLD Lab BCS-2C
+Muhammad Afnan"
+Tuesday,LAB-11,"OS Lab BCS-4E
+Muhammad Monis","OS Lab BCS-4E
+Muhammad Monis","OS Lab BCS-4E
+Muhammad Monis",,,,,
+Tuesday,LAB-12,"OS Lab BCS-4G
+Ali Haider","OS Lab BCS-4G
+Ali Haider","OS Lab BCS-4G
+Ali Haider",,,"OS Lab BSR-4A
+Usama Bin Umar","OS Lab BSR-4A
+Usama Bin Umar","OS Lab BSR-4A
+Usama Bin Umar"
+Tuesday,LAB-13,"COAL Lab BAI-4B
+Talha Shahid","COAL Lab BAI-4B
+Talha Shahid","COAL Lab BAI-4B
+Talha Shahid",,,"OS Lab BCS-4D
+Zainab Asif","OS Lab BCS-4D
+Zainab Asif","OS Lab BCS-4D
+Zainab Asif"
+Tuesday,MPI Lab,,,,,,"DLD Lab BCS-2J
+Misbah Haider","DLD Lab BCS-2J
+Misbah Haider","DLD Lab BCS-2J
+Misbah Haider"
+Wednesday,E1,"SRE BSE-8B
+Dr. Muazzam","RS BCS-8A
+ Zain ul Hassan","IB BCS-8C (BCS ,BCY, AI, SE)
+ Zehra Mukhtiar","RS BCS-8A
+ Zain ul Hassan","SRE BSE-8A
+Dr. Muazzam","DS BCS-8B
+ Omer Qureshi","RS BCS-8B
+ Zain ul Hassan",
+Wednesday,E2,"ADVR BCS-8B (BCS D,E,F)
+ Asiya Zaheer","DDR BCS-8A
+ Abdul Rehman","ADVR BCS-8C (BCY, AI, SE)
+ Asiya Zaheer","DDR BCS-8A
+ Abdul Rehman",,"BPE BSE-6A
+ Dr. Abdul Aziz","DDR BCS-8B
+ Abdul Rehman","ADVR BCS-8A (BCS A,B,C)
+ Asiya Zaheer"
+Wednesday,E3,"CN BCS-6B
+ Dr. Ghufran Ahmed","ARD BCS-8A
+ Muhmmad  Ata Ur Rehman ","NPS BCY-6A
+ Shoaib Raza","BLCC BCS-8A
+ Dr. Sufiyan Hameed",,,,
+Wednesday,E4,"SE BCS-6H
+ Noureen Fatima","BLCC BCS-8A
+ Dr. Sufiyan Hameed","WP BCS -6A 
+Abdul Rehman ","NCYS II BCY-6A
+Shoaib Raza",,"SDA BSE-4B
+ Rubab Manzar","FSE BCY-4A
+ Rubab Manzar","RS BAI-6B
+ Dr. Farrukh Shahid"
+Wednesday,E5,"CN BCS-6A
+ Dr. Farrukh Salim","SEE BSE-6B
+ Iqra Fahad","IR BCS-6A 
+Dr. Muhammad  Rafi ","FSPM BCS-6A
+ Ubaid Aftab  ","FSPM BCS-6A
+ Ubaid Aftab  ","IS BCY-6B
+ Dr. Fahad Samad","ANN BAI-6B
+ Dr. Maria","NCYS II BCY-6B
+Shoaib Raza"
+Wednesday,E6,"AI BCS-6D
+ Syed Faisal Ali","IR BCS-6B
+Dr. Muhammad Rafi ","DS BCS-6A
+Dr. Nouman Durrani","SE BCS-6J
+ Hajra Ahmed","OS BCY-4B
+ Shahbaz Siddiqui","PDC BAI-6A
+ Farooq Zaidi","RS BAI-6A
+ Dr. Farrukh Shahid","CN BAI-6A
+ Rafia"
+Wednesday,R11,"AI BCS-6E
+ Mafaza Mohi","FSPM BCS-6B
+ Ubaid Aftab  ","IPP BCS-8A
+Dr. Shahnawaz","TBW BCS-6H
+Madiha Rehman",,"AI BCS-6C
+ Farrukh Hassan Syed","CN BCS-6C
+ Dr. Ghufran Ahmed","SE BCS-6C
+ Sobia Iftikhar"
+Wednesday,R12,"CN BCS-6F
+ Dr. Aqsa Aslam","DS BCS-6B
+Dr. Nouman Durrani","IR BCS-6C
+Basit Ali","AI BCS-6G
+Fizza Aqeel","AI BCS-6H
+Fizza Aqeel","TBW BCS-6A
+ Atifa Batool","SE BCS-6A
+ Farrukh Hassan Syed","AI BCS-6A
+ Dr. Fahad Sherwani"
+Wednesday,R109,,,,,,,,
+Wednesday,A - 7,"CN BSE-6A
+ Hira Tunio",,"TOA BCS-4B
+Shaharbano","DE BAI-4A
+ Muhammad Amjad",,,"Prob BSR-4B
+ Nadeem Khan",
+Wednesday,A - 8,"DS BCS-4B (F,G,H,J,K)
+Dr. Anam Qureshi",,,,,,,
+Wednesday,B-9,"ENTPR BCS-8B (BCS D,E,F)
+ Dr. Nazia Nazeer",,"ENTPR BCS-8C (BCY, AI, SE)
+ Dr. Nazia Nazeer","ARD BCS-8A
+Muhmmad  Ata Ur Rehman ","COAL BCS-4A (A,B,C,D,L,M,N)
+ Aashir Mehboob","SE BCS-6K
+ Hajra Ahmed","TBW BCS-6F
+ Javeria Ali","ERP BCS-8A (BCS A,B,C)
+ Dr. Nazia Nazeer"
+Wednesday,B-11,"TBW BCS-6K
+ Atifa Batool",,,,,,,
+Wednesday,C-14,"AI BCY-6B
+ Sandesh Kumar",,"PAI BAI-4A
+Omer Qureshi","SE BCS-6E
+ Javeria Farooq","SE BCS-6F
+ Javeria Farooq","AI BCY-6A
+ Sandesh Kumar","AI BCY-6B
+ Sandesh Kumar","Prob BSR-4A
+ Nadeem Khan"
+Wednesday,C-16,"AI BCS-6J
+Fizza Aqeel","COAL BCS-4B (E,F,G,H,J,K)
+ Aashir Mehboob","SEE BSE-6A
+ Iqra Fahad","SEE BSE-6A
+ Iqra Fahad",,"DIS BSE-2A
+Jamil Usmani","CAL BCS-2A
+Jamil Usmani","Prob BSR-4C
+Alishba Tariq"
+Wednesday,C-17,"ANN BAI-6A
+ Dr. Maria","OS BSE-4A
+ Minhal Raza","TBW BCY-4A
+ Sameera Sultan","BPE BSE-6B
+ Dr. Abdul Aziz","ISE BSE-2A
+Iqra Fahad",,"SM BSE-6A
+ Shahid Ashraf","SM BSE-6A
+ Shahid Ashraf"
+Wednesday,C-18,"SM BSE-6B
+ Shahid Ashraf","FOA BCS-4A (A,B,C)
+ Dr. Sarfaraz Bhutto","OS BCS-4F
+ Anaum Hamid","CN BCS-6K
+Dr. Farrukh Salim","CN BCS-6D
+ Dr. Farrukh Salim","TOA BCS-4B
+ Shaharbano","OS BSE-4B
+ Minhal Raza","PAI BAI-4A
+Omer Qureshi"
+Wednesday,C-19,"TBW BCS-6C
+ Ms. Sameera Sultan","FOA BCS-4B (C,D,E)
+Muhammad Ahsan","EHTT BCY-6A
+ Abuzar Zafar","SE BCS-6D
+ Sobia Iftikhar","TOA BCS-4C
+ Dr. Nasiruddin","TOA BCS-4D
+ Dr. Nasiruddin","TOA BSR-4C
+ Dr. Muhammad Shahzad",
+Wednesday,C-20,"EW Lab BCS-2D
+Faiza Mumtaz",,,,,"EW Lab BCS-2H
+Aisha Khan",,
+Wednesday,C-21,"OS BCS-4K
+Safia Baloch","POE BCS-4A (A,B,C,D,E)
+ Michael Simon","OS BSR-4C
+ Safia Baloch","PDC BAI-6B
+ Farooq Zaidi","TOA BCS-4E
+ Syed Faisal Ali","Prob BCS-4H
+ Muhammad Amjad","FSE BCY-4B
+ Dr. Abdul Aziz","OS BCS-4K
+Safia Baloch"
+Wednesday,D-22,"OS BCS-4C
+ Dr. Nausheen Shoaib","FOM BCS-4A (A,B,C,D)
+Ahsan Ali","Prob BCS-4A
+ Muhammad Amjad","Prob BCS-4F
+ Urooj","FOA BCS-4C (F,G,H)
+ Dr. Sarfaraz Bhutto","TOA BCS-4K
+ Zain Noreen","TOA BCS-4J
+ Zain Noreen","Prob BCS-4J
+ Muhammad Amjad"
+Wednesday,D-23,"OS BCS-4E
+ Anaum Hamid","FOM BCS-4B (D,E,F,G)
+ Asiya Zaheer","Prob BCS-4E
+ Moheez ur Rahim","NC BCS-4K
+ Moheez ur Rahim","FOA BCS-4D (H,J,K)
+Dr. Saad ","TOA BSR-4A
+ Dr. Muhammad Shahzad","AI BCS-6K
+Dr. Fahad Sherwani",
+Wednesday,D-24,"TOA BCS-4G
+ Bakhtawar","Psych BSR-4A (A,B)
+ Aqsa Fayyaz","OR BSE-4A
+ Dr. Khusro Mian","TOA BCS-4A
+ Shaharbano","POE BCS-4B (F,G,H,J,K)
+ Michael Simon","TOA BSR-4B
+Bakhtawer","OS BAI-4A
+ Saeeda Kanwal","FSE BAI-4A
+ Sania Urooj"
+Wednesday,D-25,"OS BAI-4B
+ Saeeda Kanwal","Psych BSR-4B (B,C)
+ Kauser Malik","NC BCS-4C
+ Nadeem Khan","ME BAI-4A (A,B,C)
+ Michael Simon","FOM BCS-4C (H,J,K)
+Ahsan Ali",Reserved for FSM,"FSE BAI-4B
+ Sania Urooj","OS BAI-4B
+ Saeeda Kanwal"
+Wednesday,D-26,"NC BSR-4C
+ Mairaj","Socio BSR-4A (A,B,C)
+ Rabia Ijaz","NC BCS-4D
+ Mairaj","Psych BCY-4A (A,B)
+ Rabia Ijaz","Psych BAI-4A (A,B)
+ Aqsa Fayyaz","Prob BCS-4G
+Moheez ur Rahim","OS BAI-4C
+ Hania Usman","COAL BAI-4C
+Bilal Ahsan"
+Wednesday,D-27,"TBW BCS-6G
+Khadija Shereen",,"Prob BCS-4K
+ Urooj","FOA BCY-4A (A,B)
+ Dr.  Saad ","Psych BAI-4B (B,C)
+ Kauser Malik","Prob BCS-4F
+ Urooj","TOA BCS-4F
+ Syed Faisal Ali","TOA BCS-4H
+Dr. Muhammad Shahzad"
+Wednesday,D-28,"Prob BCS-4D
+ Urooj","ICP BCS-2C
+Kashif Ahmed","EW BCS-2C
+Huma Hafeez","Socio BSE-4A (A,B)
+Kauser Malik","Psych BSE-4A (A,B)
+ Rabia Ijaz","NC BCS-4E
+ Usama Antuley","NC BCS-4E
+ Usama Antuley",
+Wednesday,E-29,"DLD BCS-2E
+Aashir Mahboob","MVC BCS-2E
+Fareeha Sultan","OS BCS-4G
+ Atiya Jokhio","NC BSR-4B
+ Mairaj","MVC BCS-2A
+Dr. Fahad Riaz","EW BCS-2A
+Huma Hafeez","Prob BCS-4B
+ Urooj","TSC BCS-2A
+Farhan Ali Memon"
+Wednesday,E-30,,,"COAL BAI-4B
+Bilal Ahsan","TSC BCS-2F
+Dr. Shahzad Shaikh","MVC BCS-2B
+Dr. Nazish Kanwal","DLD BCS-2B
+Rabia Tabassum","EW BCS-2B
+Nazia Imam","TSC BCS-2B
+Dr. Shahzad Shaikh"
+Wednesday,E-31,,"TSC BCS-2G
+Dr. Hassan Saeed","DLD BCS-2G
+Muhammad Rahim","AI BCS-6F
+ Mafaza Mohi","TSC BCS-2H
+Dr. Shahzad Shaikh",,"MVC BCS-2F
+Dr. Nazish Kanwal","OOP BCS-2F
+Abeeha Sattar"
+Wednesday,E-32,,,"DLD BCS-2H
+Kashan Hussain","OOP BCS-2G
+Bakhtawer","MVC BCS-2D
+Fareeha Sultan","EW BCS-2D
+Faiza Mumtaz","DLD BCS-2D
+Rabia Tabassum","ICP BCS-2G
+Dr. Shahnawaz"
+Wednesday,E-33,"MVC BCS-2J
+Uzma Saleh","EW BCS-2J
+Maryam","TSC BCS-2J
+Dr. Hassan Saeed","PF BCS-2A
+Nida Munawar","OOP BCS-2J
+Bakhtawer","ICP BCS-2G
+Dr. Shahnawaz","TSC BCS-2C
+Dr. Hassan Saeed","DLD BCS-2C
+Waqar Ahmed"
+Wednesday,E-34,"TSC BAI-2A
+Farhan Ali Memon","OOP BAI-2A
+Rafia","MVC BAI-2A
+Uzma Saleh","OOP BAI-2A
+Rafia","CAL BCS-2B
+Uzma Saleh","MVC BCS-2J
+Uzma Saleh","EW BCS-2J
+Maryam",
+Wednesday,E-35,"MVC BCS-2H
+Alishba Tariq","TSC BSE-2A
+Farhan Ali Memon","OOP BSE-2A
+Minhal Raza","OOP BCS-2A
+Basit Ali","MVC BCS-2C
+Alishba Tariq","OOP BCS-2C
+Basit Ali","MCV BSE-2A
+Fareeha Sultan","DLD BSE-2A
+Kariz Kamal"
+Wednesday,LLC,,,,,,"EW Lab BCS-2E
+Khadija Shereen","EW Lab BCS-2E
+Khadija Shereen","EW Lab BCS-2E
+Khadija Shereen"
+Wednesday,LAB-1,"OS Lab BCS-4J
+Fatima Gado","OS Lab BCS-4J
+Fatima Gado","OS Lab BCS-4J
+Fatima Gado",,,"CN Lab BCS-6D
+Shaheer Ahmed Khan","CN Lab BCS-6D
+Shaheer Ahmed Khan","CN Lab BCS-6D
+Shaheer Ahmed Khan"
+Wednesday,LAB-2,,,"EHCP BCS-6A
+Shahbaz Siddiqui",,,"COAL BCS-4A (A,B,C,D,L,M,N)
+Shoaib Rauf","COAL BCS-4A (A,B,C,D,L,M,N)
+Shoaib Rauf","COAL BCS-4A (A,B,C,D,L,M,N)
+Shoaib Rauf"
+Wednesday,LAB-4,,,"DLP BCS-6A
+ Dr. Jawwad Shamsi ","SDA BCS-6A
+Noureen Fatima ","SDA BCS-6A
+Noureen Fatima ","CN Lab BCS-6B
+Yusra Kaleem","CN Lab BCS-6B
+Yusra Kaleem","CN Lab BCS-6B
+Yusra Kaleem"
+Wednesday,LAB-5,"SDA Lab BSE-4B
+Zarnain","SDA Lab BSE-4B
+Zarnain","SDA Lab BSE-4B
+Zarnain",,"IS BCY-6A
+ Dr. Fahad Samad","SDA Lab BSE-4A
+Zarnain","SDA Lab BSE-4A
+Zarnain","SDA Lab BSE-4A
+Zarnain"
+Wednesday,LAB-6,,,"IIOT BCS-6A 
+Dr. Anam Qureshi ",,,"AI Lab BCS-6E
+Muhammad Osaid","AI Lab BCS-6E
+Muhammad Osaid","AI Lab BCS-6E
+Muhammad Osaid"
+Wednesday,LAB-7,"AI Lab BAI-4A
+Sohail Ahmed","AI Lab BAI-4A
+Sohail Ahmed","AI Lab BAI-4A
+Sohail Ahmed",,,"CN Lab BCS-6G
+Areeb Ahmed","CN Lab BCS-6G
+Areeb Ahmed","CN Lab BCS-6G
+Areeb Ahmed"
+Wednesday,LAB-8,"OS Lab BAI-4C
+Sameer","OS Lab BAI-4C
+Sameer","OS Lab BAI-4C
+Sameer",,,"CN Lab BSE-6B
+ Nadeem","CN Lab BSE-6B
+ Nadeem","CN Lab BSE-6B
+ Nadeem"
+Wednesday,LAB-10,"OS Lab BCS-4H
+Mubashra Fayyaz","OS Lab BCS-4H
+Mubashra Fayyaz","OS Lab BCS-4H
+Mubashra Fayyaz",,,"AI Lab BCS-6H
+Muhammad Aashir","AI Lab BCS-6H
+Muhammad Aashir","AI Lab BCS-6H
+Muhammad Aashir"
+Wednesday,LAB-11,,,,,,"OS Lab BCS-4A
+Zainab Asif","OS Lab BCS-4A
+Zainab Asif","OS Lab BCS-4A
+Zainab Asif"
+Wednesday,LAB-12,"DLD Lab BCS-2B
+Muhammad Monis","DLD Lab BCS-2B
+Muhammad Monis","DLD Lab BCS-2B
+Muhammad Monis",,,"DLD Lab BAI-2B
+Muhammad Rahim","DLD Lab BAI-2B
+Muhammad Rahim","DLD Lab BAI-2B
+Muhammad Rahim"
+Wednesday,LAB-13,"OS Lab BCY-4B
+Muhammad Nouman Rajput","OS Lab BCY-4B
+Muhammad Nouman Rajput","OS Lab BCY-4B
+Muhammad Nouman Rajput",,,"AI Lab BCS-6J
+Mafaza Mohi","AI Lab BCS-6J
+Mafaza Mohi","AI Lab BCS-6J
+Mafaza Mohi"
+Wednesday,MPI Lab,"DLD Lab BCS-2F
+Waqar Ahmed","DLD Lab BCS-2F
+Waqar Ahmed","DLD Lab BCS-2F
+Waqar Ahmed",,,"DLD Lab BAI-2A
+Sohail","DLD Lab BAI-2A
+Sohail","DLD Lab BAI-2A
+Sohail"
+Thursday,E1,"RS BCS-8B
+ Zain ul Hassan","DS BCS-8B
+ Omer Qureshi","RS BCS-8A
+ Zain ul Hassan","TBW BCS-6D
+Atifa Batool","CN BCS-6D
+ Dr. Farrukh Salim","PPIT BAI-8A
+Bilal Ahsan","IB BCS-8C (BSC, BCY, AI, SE)
+ Zehra Mukhtiar",
+Thursday,E2,"DDR BCS-8B
+ Abdul Rehman","NPS BCY-6A
+ Shoaib Raza","DDR BCS-8A
+ Abdul Rehman","CN BCS-6A
+ Dr. Farrukh Salim","AML / ML  BCS-8A
+ Noureen Fatima","SRE BSE-8A
+Dr. Muazzam","ADVR BCS-8C (BCY, AI, SE)
+ Asiya Zaheer","ADVR BCS-8B (BCS D,E,F)
+ Asiya Zaheer"
+Thursday,E3,"CN BCS-6H
+ Yusra Kaleem","IR BCS-6A 
+Dr. Muhammad  Rafi ","ARD BCS-8A
+ Muhmmad  Ata Ur Rehman","ADVR BCS-8A (BCS A,B,C)
+ Asiya Zaheer","DS BCS-8A
+ Omer Qureshi","AI BCS-6C
+ Farrukh Hassan Syed",,"SRE BSE-8B
+Dr. Muazzam"
+Thursday,E4,"TBW BCS-6D
+ Atifa Batool","IIOT BCS-6A 
+Dr. Anam Qureshi ","BLCC BCS-8A
+ Dr. Sufiyan Hameed","IPP BCS-8A
+Dr. Shahnawaz","TBW BCS-6E
+Javeria Ali","CN BCS-6E
+ Dr. Aqsa Aslam","PF BCS-2A
+Nida Munawar",
+Thursday,E5,"CN BCS-6K
+Dr. Farrukh Salim ","SDA BSE-4A
+ Rubab Manzar","TBW BCY-4B
+ Sameera Sultan","NCYS II BCY-6B
+ Shoaib Raza","NCYS II BCY-6A
+Shoaib Raza","SE BCS-6G
+ Noureen Fatima","AI BCS-6B
+ Dr. Fahad Sherwani",
+Thursday,E6,"VARE BCY-6A
+ Abuzar Zafar","IR BCS-6C
+Basit Ali","DS BCS-6B
+Dr. Nouman Durrani ","CN BCS-6J
+ Dr. Nausheen Shoaib","TBW BCS-6A
+ Atifa Batool","AI BCS-6A
+ Dr. Fahad Sherwani","SE BCS-6A
+ Farrukh Hassan Syed","CN BCS-6J
+ Dr. Nausheen Shoaib"
+Thursday,R11,"VARE BCY-6B
+ Muhammad Nouman Rajput","DS BCS-6A
+Dr. Nouman Durrani","IR BCS-6B
+Dr. Muhammad Rafi ","AI BCS-6H
+ Fizza Aqeel","SE BCS-6C
+ Sobia Iftikhar","TBW BCS-6H
+ Madiha Rehman",,"SE BCS-6H
+ Noureen Fatima "
+Thursday,R12,"TBW BCS-6G
+Khadija Shereen","DLP BCS-6A
+ Dr. Jawwad Shamsi ","BPE BSE-6B
+Dr. Abdul Aziz ","CN BCS-6C
+ Dr. Ghufran Ahmed","Gen AI BCS-8A
+ Dr. Atif Tahir","CN BCS-6B
+ Dr. Ghufran Ahmed",,"TBW BCS-6C
+ Ms. Sameera Sultan"
+Thursday,R109,,,,,,,,
+Thursday,A - 7,"CN BSE-6A
+ Hira Tunio","PPIT BAI-8A
+Bilal Ahsan",,"SE BCS-6B
+ Farrukh Hassan Syed","TOA BCS-4B
+ Shaharbano",,"DS BSE-4A (BSE, BAI)
+Fahad Hussain","AI BCS-6F
+ Mafaza Mohi"
+Thursday,A - 8,,,,"Psych BSE-4A (A,B)
+ Rabia Ijaz","CAL BCS-2A
+Jamil Usmani",,"LA BCS-2A
+Jamil Usmani",
+Thursday,B-9,"CN BCS-6E
+ Dr. Aqsa Aslam","WP BCS -6A 
+Abdul Rehman ","SDA BCS-6A
+Noureen Fatima ","ERP BCS-8A (BCS A,B,C)
+ Dr. Nazia Nazeer","SE BCS-6K
+ Hajra Ahmed","AI BCS-6J
+Fizza Aqeel","ERP BCS-8C (BCY, AI, SE)
+ Dr. Nazia Nazeer","ERP BCS-8B (BCS D,E,F)
+ Dr. Nazia Nazeer"
+Thursday,B-11,,,,"PAI BCS-4A
+Omer Qureshi",,,,
+Thursday,C-14,"ANN BAI-6A
+ Dr. Maria","EHTT BCY-6A
+ Abuzar Zafar","DS BCS-4A (A,B,C,D,E, BCY)
+Dr. Anam Qureshi","CN BCS-6F
+ Dr. Aqsa Aslam","BIO BCS-8A
+ Dr. Nasiruddin",,"AI BCS-6E
+ Mafaza Mohi","SE BCS-6D
+ Sobia Iftikhar"
+Thursday,C-16,"TBW BCS-6B
+ Ms. Javeria Ali","EHCP BCS-6A
+Shahbaz Siddiqui",,"ANN BAI-6B
+ Dr. Maria","PDC BAI-6B
+ Farooq Zaidi","RS BAI-6B
+ Dr. Farrukh Shahid","DS BCS-4A (A,B,C,D,E, BCY)
+Dr. Anam Qureshi","PDC BAI-6A
+ Farooq Zaidi"
+Thursday,C-17,,,,"RS BAI-6A
+ Dr. Farrukh Shahid","BPE BSE-6A
+ Dr. Abdul Aziz",,"TBW BCS-6J
+Atifa Batool",
+Thursday,C-18,,"Prob BCS-4D
+ Urooj",,"AI BCS-6K
+Dr. Fahad Sherwani","CN BSE-6B
+ Hira Tunio","COAL BCS-4B (E,F,G,H,J,K)
+ Aashir Mehboob","SE BCS-6C
+ Sobia Iftikhar",
+Thursday,C-19,"CN BAI-6B
+ Ms. Rafia ","OS BCS-4E
+ Anaum Hamid",,"OS BCS-4F
+ Anaum Hamid",,,"AI BCS-6D
+ Syed Faisal Ali",
+Thursday,C-20,,,,,"FE BCS-2A
+Sharmeen Ismail",,,
+Thursday,C-21,"SE BCS-6J
+  Ms. Hajra Ahmed ","OS BCS-4B
+ Dr. Nadeem Kafi","OS BCS-4B
+ Dr. Nadeem Kafi","Prob BCS-4A
+ Muhammad Amjad","OS BCS-4J
+ Mubashra Fayyaz","FSE BAI-4B
+ Sania Urooj","TOA BCS-4H
+Dr. Muhammad Shahzad","TOA BSR-4B
+Bakhtawer"
+Thursday,D-22,"OS BCS-4A
+ Dr. Nadeem Kafi","FSE BCY-4B
+ Dr. Abdul Aziz",,"Prob BCS-4B
+ Urooj",,"NC BCS-4J
+ Shahid Ashraf","TOA BCS-4J
+ Zain Noreen",
+Thursday,D-23,"NC BCS-4B
+ Nadeem Khan","NC BCS-4A
+ Usama Antuley",,"NC BCS-4C
+ Nadeem Khan","NC BSR-4B
+ Mairaj","AI BAI-4A
+ Farooq Zaidi",,
+Thursday,D-24,"CN BCY-4B
+ Muhammad Usman",,"OS BCS-4D
+ Dr. Nausheen Shoaib","NC BCS-4D
+ Mairaj","NC BCS-4G
+ Shahid Ashraf","AI BAI-4C
+ Dr. Maria","FSE BAI-4C
+ Shazia",
+Thursday,D-25,"Prob BCS-4C
+ Moheez ur Rahim","OS BCS-4C
+ Dr. Nausheen Shoaib","OS BSR-4A
+ Mubashra Fayyaz","Prob BCS-4G 
+Moheez ur Rahim","ME BAI-4A (A,B,C)
+ Michael Simon","CN BCY-4A
+ Muhammad Usman","OS BCY-4A
+ Shahbaz Siddiqui","COAL BCS-4A (A,B,C,D,L,M,N)
+ Aashir Mehboob"
+Thursday,D-26,,"Prob BCS-4J
+ Muhammad Amjad","Prob BCS-4E
+ Moheez ur Rahim","COAL BAI-4A
+Muhammad Usman","Psych BCY-4A (A,B)
+ Rabia Ijaz",,"NC BSR-4A
+ Mairaj","FOA BCS-4C (F,G,H)
+ Dr. Sarfaraz Bhutto"
+Thursday,D-27,"OS BCS-4H
+ Atiya Jokhio","OS BCS-4G
+ Atiya Jokhio","OS BCS-4H
+ Atiya Jokhio","NC BCS-4H
+ Dr. Khusro Mian","FOA BCY-4A (A,B)
+ Dr. Saad ","FOA BCS-4A (A,B,C)
+ Dr. Sarfaraz Bhutto","Prob BCS-4K
+ Urooj","FOA BCS-4D (H,J,K)
+Dr. Saad "
+Thursday,D-28,"DIS BSE-2A
+Jamil Usmani","OS BSR-4A
+ Mubashra Fayyaz","OR BSE-4A
+ Dr. Khusro Mian","OS BSR-4C
+ Safia Baloch","Socio BSE-4A (A,B)
+Kauser Malik","FOA BCS-4B (C,D,E)
+Muhammad  Ahsan",,"POE BCS-4B (F,G,H,J,K)
+ Michael Simon"
+Thursday,E-29,"OS BSE-4B
+ Minhal Raza","OS BSR-4B
+ Safia Baloch","Prob BSR-4B
+ Nadeem Khan","TOA BCS-4K
+ Zain Noreen",,"POE BCS-4A (A,B,C,D,E)
+ Michael Simon",,"FOM BCS-4C (H,J,K)
+Ahsan Ali"
+Thursday,E-30,"Prob BSE-4A
+ Abdul Basit","OR BSE-4B
+ Dr. Khusro Mian","Prob BSE-4B
+ Abdul Basit","COAL BAI-4B
+Bilal Ahsan","TOA BSR-4A
+ Dr. Muhammad Shahzad","FOM BCS-4A (A,B,C,D)
+Ahsan Ali","OS BCS-4G
+Atiya Jokhio","Psych BAI-4A (A,B)
+ Aqsa Fayyaz"
+Thursday,E-31,"DS BCS-4C (BSR-A,B,C)
+Fahad Hussain","DS BCS-4C (BSR-A,B,C)
+Fahad Hussain",,"MVC BAI-2A
+Uzma Saleh","TOA BCS-4F
+ Syed Faisal Ali","FOM BCS-4B (D,E,F,G)
+ Asiya Zaheer","TOA BCS-4D
+ Dr. Nasiruddin","Psych BAI-4B (B,C)
+ Kauser Malik"
+Thursday,E-32,"DLD BAI-2A
+Sania Urooj","IRS BAI-2A
+Muhammad Hasham",,"TSC BCY-2B
+Muhammad Hasham","OS BCS-4K
+Safia Baloch","Psych BSR-4A (A,B)
+ Aqsa Fayyaz",,
+Thursday,E-33,"DLD BAI-2B
+Muhammad Rahim","EW BCY-2B
+Aisha Khan","IRS BCY-2B
+Muhammad Hasham","PF BCS-2A
+Nida Munawar","DE BAI-4A
+ Muhammad Amjad","Psych BSR-4B (B,C)
+ Kauser Malik",,"TOA BSR-4C
+ Dr. Muhammad Shahzad"
+Thursday,E-34,"IRS BCY-2A
+Farhan Ali Memon","TSC BSE-2A
+Farhan Ali Memon","DLD BCY-2A
+Kariz Kamal","OOP BCY-2A
+Abeer Gauhar",,"Socio BSR-4A (A,B,C)
+ Rabia Ijaz",,
+Thursday,E-35,,,,"DLD BSE-2A
+Kariz Kamal",,"DLD BCY-2A
+Kariz Kamal","TSC BCY-2A
+Farhan Ali Memon","CAL BCS-2B
+Uzma Saleh"
+Thursday,LLC,"FE Lab BCS-2A
+Madiha Rehman","FE Lab BCS-2A
+Madiha Rehman","FE Lab BCS-2A
+Madiha Rehman",,,"TBW BCS-6F
+Javeria Ali","TBW BCS-6F
+Javeria Ali","TBW BCS-6F
+Javeria Ali"
+Thursday,LAB-1,"AI Lab BAI-4B
+Sohail Ahmed","AI Lab BAI-4B
+Sohail Ahmed","AI Lab BAI-4B
+Sohail Ahmed",,,"AI Lab BCY-6B
+ Mehak Mazhar","AI Lab BCY-6B
+ Mehak Mazhar","AI Lab BCY-6B
+ Mehak Mazhar"
+Thursday,LAB-2,"DS Lab BCS-4B (F,G,H,J,K)
+Syeda Mahnoor Javed","DS Lab BCS-4B (F,G,H,J,K)
+Syeda Mahnoor Javed","DS Lab BCS-4B (F,G,H,J,K)
+Syeda Mahnoor Javed",,,,,
+Thursday,LAB-4,"CN Lab BCY-4A
+Waseem Rauf","CN Lab BCY-4A
+Waseem Rauf","CN Lab BCY-4A
+Waseem Rauf",,"DLP BCS-8A
+ Summaiyah Zahid","WE Lab BSE-6B
+Yasir Arafat","WE Lab BSE-6B
+Yasir Arafat","WE Lab BSE-6B
+Yasir Arafat"
+Thursday,LAB-5,"AI Lab BAI-4C
+Mehak Mazhar","AI Lab BAI-4C
+Mehak Mazhar","AI Lab BAI-4C
+Mehak Mazhar","IS BCY-6A
+ Dr. Fahad Samad","IS BCY-6B
+ Dr. Fahad Samad","OOP Lab BAI-2A
+Talha Shahid","OOP Lab BAI-2A
+Talha Shahid","OOP Lab BAI-2A
+Talha Shahid"
+Thursday,LAB-6,,"DLP BCS-8B
+ Summaiyah Zahid",,,"SOA BCS-8A
+ Muhammad Ali","OOP Lab BCY-2B
+Muhammad Ali","OOP Lab BCY-2B
+Muhammad Ali","OOP Lab BCY-2B
+Muhammad Ali"
+Thursday,LAB-7,"OS Lab BCS-4K
+Usama Bin Umar","OS Lab BCS-4K
+Usama Bin Umar","OS Lab BCS-4K
+Usama Bin Umar","CN BCS-6G
+ Yusra Kaleem",,"OOP Lab BSE-2A
+Ali Fatmi","OOP Lab BSE-2A
+Ali Fatmi","OOP Lab BSE-2A
+Ali Fatmi"
+Thursday,LAB-8,"OS Lab BAI-4A
+Sameer","OS Lab BAI-4A
+Sameer","OS Lab BAI-4A
+Sameer",,,,,
+Thursday,LAB-10,,,,,,,,
+Thursday,LAB-11,"OS Lab BSR-4C
+Ubaidullah","OS Lab BSR-4C
+Ubaidullah","OS Lab BSR-4C
+Ubaidullah",,,"AI Lab BCS-6K
+Sarah Ahmed","AI Lab BCS-6K
+Sarah Ahmed","AI Lab BCS-6K
+Sarah Ahmed"
+Thursday,LAB-12,"OS Lab BCS-4F
+Ali Haider","OS Lab BCS-4F
+Ali Haider","OS Lab BCS-4F
+Ali Haider",,,"VARE Lab BCY-6A
+ Abeer Gauher","VARE Lab BCY-6A
+ Abeer Gauher","VARE Lab BCY-6A
+ Abeer Gauher"
+Thursday,LAB-13,,,,,,,,
+Thursday,MPI Lab,,,,,,,,
+Friday,E1,,"SE BCS-6E
+ Javeria Farooq","TBW BCS-6B
+ Javeria Ali","CN BSE-6A
+ Hira Tunio","SE BCS-6B
+ Farrukh Hassan Syed","SM BSE-6A
+ Shahid Ashraf",,
+Friday,E2,"CN BCS-6G
+ Yusra Kaleem","RS BAI-6A
+ Dr. Farrukh Shahid","RS BAI-6B
+ Dr. Farrukh Shahid",,"WE BSE-6B
+ Ali Fatmi","VARE BCY-6B
+ Muhammad Nouman Rajput",,
+Friday,E3,"AI BCY-6A
+ Sandesh Kumar","CN BCS-6H
+ Yusra Kaleem","CN BCS-6E
+ Dr. Aqsa Aslam","CN BCS-6F
+ Dr. Aqsa Aslam","VARE BCY-6A
+ Abuzar Zafar",,"CN BSE-6B
+ Hira Tunio","SM BSE-6B
+ Shahid Ashraf"
+Friday,E4,"SE BCS-6H
+ Noureen Fatima","CN BCS-6C
+ Dr. Ghufran Ahmed",,"SE BCS-6K
+ Hajra Ahmed","SE BCS-6G
+ Noureen Fatima",,"WE BSE-6A
+ Ali Fatmi","WE BSE-6A
+ Ali Fatmi"
+Friday,E5,"TBW BCS-6E
+Javeria Ali","CN BCS-6J
+ Dr. Nausheen Shoaib","TBW BCS-6J
+Atifa Batool","AI BCS-6J
+Fizza Aqeel","SE BCS-6J
+ Hajra Ahmed","PDC BAI-6B
+ Farooq Zaidi",,
+Friday,E6,,"TBW BCS-6K
+ Atifa Batool","SE BCS-6G
+ Noureen Fatima",,"PDC BAI-6A
+ Farooq Zaidi","AI BCS-6G
+Fizza Aqeel",,
+Friday,R11,"SM BSE-6B
+ Shahid Ashraf","WE BSE-6B
+ Ali Fatmi","AI BCS-6H
+ Fizza Aqeel","OS BCY-6A
+Dr. Nausheen Shoaib",,"AI BCY-6A
+Sandesh Kumar","OS BCY-6A
+Dr. Nausheen Shoaib",
+Friday,R12,"CN BAI-6B
+ Rafia",,"SE BCS-6D
+ Sobia Iftikhar","CN BCS-6B
+ Dr. Ghufran Ahmed",,"CN BAI-6A
+ Rafia",,
+Friday,R109,,,,,,,,
+Friday,A-7,,,,,"DS BSE-4A (BSE, BAI)
+Fahad Hussain",,,"LA BCS-2A
+Jamil Usmani"
+Friday,B-9,,,,"OOP BCS-2E
+Abeeha Sattar","OOP BCS-2C
+Basit Ali","EW BCS-2G
+Faiza Mumtaz","TSC BCS-2A
+Farhan Ali Memon","OOP BCS-2A
+Basit Ali"
+Friday,C-14,,"OOP BCS-2B
+Sobia Iftikhar","MVC BCS-2E
+Fareeha Sultan","MVC BCS-2G
+Dr. Fahad Riaz","DLD BCS-2A
+Waqar Ahmed","MVC BCS-2A
+Dr. Fahad Riaz","ICP BCS-2B
+Kashif Ahmed","EW BCS-2B
+Nazia Imam"
+Friday,C-16,"OOP BCS-2D
+Sumaiyah Zahid","TSC BCS-2D
+Dr. Shahzad Shaikh","DLD BCS-2D
+Rabia Tabassum","MVC BCS-2D
+Fareeha Sultan","MVC BCS-2B
+Dr. Nazish Kanwal","OOP BCS-2D
+Sumaiyah Zahid","TSC BCS-2C
+Dr. Hassan Saeed","ICP BCS-2C
+Kashif Ahmed"
+Friday,C-17,"OOP BCS-2E
+Abeeha Sattar","TSC BCS-2E
+Dr. Hassan Saeed","TSC BCS-2B
+Dr. Shahzad Shaikh",,"TSC BCS-2F
+Dr. Shahzad Shaikh","TSC BCS-2H
+Dr. Shahzad Shaikh","MVC BCS-2F
+Dr. Nazish Kanwal","OOP BCS-2F
+Abeeha Sattar"
+Friday,C-18,"OOP BCS-2H
+Atiya Jokhio","MVC BCS-2H
+Alishba Tariq","MVC BCS-2H
+Alishba Tariq",,"TSC BCS-2G
+Dr. Hassan Saeed","DLD BCS-2F
+Rabia Tabassum","MVC BCS-2G
+Dr. Fahad Riaz","OOP BCS-2G
+Bakhtawer"
+Friday,C-19,,"OOP BCY-2B
+Abeer Gauhar","DLD BCY-2B
+Kariz Kamal","MVC BCY-2B
+Dr. Nazish Kanwal",,"DLD BCY-2B
+Kariz Kamal","OOP BCS-2H
+Atiya Jokhio",
+Friday,C-20,"EW Lab BAI-2A
+Nazia Imam",,,,"EW BCS-2H
+Huma Hafeez",,"EW Lab BCS-2J
+Huma Hafeez",
+Friday,C-21,,,,,"DLD BCS-2J
+Kashan Hussain","FE BCS-2A
+Sharmeen Ismail","OOP BAI-2A
+Rafia","MVC BAI-2A
+Uzma Saleh"
+Friday,D-22,,,,,"TSC BAI-2A
+Farhan Ali Memon","EW BAI-2A
+Nazia Imam",,
+Friday,D-23,,,,,"DLD BCY-2A
+Kariz Kamal","MVC BCY-2A
+Dr. Nazish Kanwal","DE BAI-4B
+ Alishba Tariq ",
+Friday,D-24,,,,"Dis BCS-4A BCS,AI,SE,CY
+ Safia Baloch","Dis BCS-4A BCS,AI,SE,CY
+ Safia Baloch",,,
+Friday,D-25,,,,,,,,
+Friday,D-26,,,,,,,,
+Friday,D-27,,,,,,,,
+Friday,D-28,,,,,,,,
+Friday,E-29,,,,,,,,
+Friday,E-30,,,,,,,,
+Friday,E-31,,,,,,,,
+Friday,E-32,,,,,,,,
+Friday,E-33,,,,,,,,
+Friday,E-34,,,,,,,,
+Friday,E-35,,,,,,,,
+Friday,LLC,"EW Lab BCY-2A
+Maryam","EW Lab BCY-2A
+Maryam","EW Lab BCY-2A
+Maryam",,,,"EW Lab BCY-2B
+Javeria Ali","EW Lab BCY-2B
+Javeria Ali"
+Friday,LAB-1,"COAL Lab BCS-4B (E,F,G,H,J,K)
+Nouman Hanif","COAL Lab BCS-4B (E,F,G,H,J,K)
+Nouman Hanif","COAL Lab BCS-4B (E,F,G,H,J,K)
+Nouman Hanif","CN Lab BCS-6E
+Ubaidullah","CN Lab BCS-6E
+Ubaidullah","CN Lab BCS-6E
+Ubaidullah",,
+Friday,LAB-2,,,,,,,"PAI Lab BAI-4A
+Sameer Faisal","PAI Lab BAI-4A
+Sameer Faisal"
+Friday,LAB-4,"DLD Lab BCS-2A
+Muhammad Afnan","DLD Lab BCS-2A
+Muhammad Afnan","DLD Lab BCS-2A
+Muhammad Afnan",,,,"DLD Lab BCY-2A
+Nouman Hanif","DLD Lab BCY-2A
+Nouman Hanif"
+Friday,LAB-5,"OOP Lab BCS-2C
+Syeda Mahnoor Javed","OOP Lab BCS-2C
+Syeda Mahnoor Javed","OOP Lab BCS-2C
+Syeda Mahnoor Javed",,,,"DS Lab BCS-4A (A,B,C,D,E, BCY)
+Hafiza Bushra Sattar","DS Lab BCS-4A (A,B,C,D,E, BCY)
+Hafiza Bushra Sattar"
+Friday,LAB-6,"OOP Lab BCS-2F
+Shaharbano","OOP Lab BCS-2F
+Shaharbano","OOP Lab BCS-2F
+Shaharbano","CN Lab BCS-6C
+Shaheer Ahmed Khan","CN Lab BCS-6C
+Shaheer Ahmed Khan","CN Lab BCS-6C
+Shaheer Ahmed Khan","AI Lab BCS-6C
+Zain Noreen","AI Lab BCS-6C
+Zain Noreen"
+Friday,LAB-7,"OOP Lab BCS-2J
+Fatima Gado","OOP Lab BCS-2J
+Fatima Gado","OOP Lab BCS-2J
+Fatima Gado","AI Lab BCS-6A
+Shafique Rehman","AI Lab BCS-6A
+Shafique Rehman","AI Lab BCS-6A
+Shafique Rehman","AI Lab BCS-6B
+Shafique Rehman","AI Lab BCS-6B
+Shafique Rehman"
+Friday,LAB-8,"CN Lab BSE-6A
+ Nadeem","CN Lab BSE-6A
+ Nadeem","CN Lab BSE-6A
+ Nadeem",,,,"AI Lab BCS-6G
+Muhammad Aashir","AI Lab BCS-6G
+Muhammad Aashir"
+Friday,LAB-10,"DS Lab BSE-4A (BSE, BAI)
+Hafiza Bushra Sattar","DS Lab BSE-4A (BSE, BAI)
+Hafiza Bushra Sattar","DS Lab BSE-4A (BSE, BAI)
+Hafiza Bushra Sattar","AI Lab BCS-6D
+Yasir Arafat","AI Lab BCS-6D
+Yasir Arafat","AI Lab BCS-6D
+Yasir Arafat","CN Lab BCS-6F
+Waseem Rauf","CN Lab BCS-6F
+Waseem Rauf"
+Friday,LAB-11,"AI Lab BCS-6F
+Zarnain","AI Lab BCS-6F
+Zarnain","AI Lab BCS-6F
+Zarnain",,,,"CN Lab BCS-6H
+Rabia Ahmed","CN Lab BCS-6H
+Rabia Ahmed"
+Friday,LAB-12,"VARE Lab BCY-6B
+Abuzar Zafar","VARE Lab BCY-6B
+Abuzar Zafar","VARE Lab BCY-6B
+Abuzar Zafar",,,,"CN Lab BCS-6K
+Areeb Ahmed","CN Lab BCS-6K
+Areeb Ahmed"
+Friday,LAB-13,"CN Lab BCS-6A
+Kashan Hussain ","CN Lab BCS-6A
+Kashan Hussain ","CN Lab BCS-6A
+Kashan Hussain ",,,,,
+Friday,MPI Lab,"DLD Lab BCS-2G
+Rukhsar Ali","DLD Lab BCS-2G
+Rukhsar Ali","DLD Lab BCS-2G
+Rukhsar Ali",,,,"DLD Lab BCS-2E
+Hamza Ahmed","DLD Lab BCS-2E
+Hamza Ahmed"
