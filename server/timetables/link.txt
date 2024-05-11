@@ -29,6 +29,28 @@ CS (50)': {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}, 'E6 C
 'H, J, K - 3C\n Dr Shahnawaz'}, 'C-18 EE (50)': {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}, 'C-19 EE (50)': {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}, 'C-21 EE (50)': {'status': 'occupied', 'section': 'BCS-3B', 'course': 'LA', 'teacher': 'Shahid Ashraf'}, 'D-22 EE (50)': {'status': 'occupied', 'section': 'for', 'course': 'Reserved', 'teacher': 'M. Waqas'}, 'D-23 EE (50)': {'status': 'occupied', 'section': 'BCS-3A', 'course': 'DE', 'teacher': 'Fahad Riaz'}, 'D-26 EE (50)': {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}, 'D-27 EE (50)': {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}, 'D-28 EE (50)': {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}, 'CS LAB-2 (40)': {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}, 'CS LAB-5 (50)': {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}, 'EE LAB-13 (51)': {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}}}
 
 
+[
+    ('monday', '1', 'E1 CS(50)', 'SCD', 'BSE-5B', 'Naz Memon'), 
+    ('monday', '1', 'EE LAB-12 (51)', 'DS-LAB', 'BCS-3A', 'Safia Baloch'), 
+    ('monday', '1', 'EE LAB-13 (51)', 'PF-LAB', 'BCY-1B', 'Mahnoor Javed'), 
+    ('monday', '2', 'EE LAB-12 (51)', 'DS-LAB', 'BCS-3A', 'Safia Baloch'), 
+    ('monday', '2', 'EE LAB-13 (51)', 'PF-LAB', 'BCY-1B', 'Mahnoor Javed'), 
+    ('monday', '3', 'EE LAB-12 (51)', 'DS-LAB', 'BCS-3A', 'Safia Baloch'), 
+    ('monday', '3', 'EE LAB-13 (51)', 'PF-LAB', 'BCY-1B', 'Mahnoor Javed'), 
+    ('wednesday', '3', 'E6 CS (50)', 'SCD', 'BSE-5B', 'Naz Memon'), 
+    ('wednesday', '6', 'E2 CS (50)', 'IS', 'BCS-7D', 'Dr. Aqsa Aslam'), 
+    ('wednesday', '7', 'E1 CS(50)', 'PPIT', 'BCS-7D', 'Shaharbano'), 
+    ('thursday', '1', 'E4 CS (50)', 'FSPM', 'BSE-7A', 'Iqra Fahad'), 
+    ('thursday', '2', 'E1 CS(50)', 'TBW', 'BAI-7A', 'Sameera Sultan'), 
+    ('thursday', '6', 'E2 CS (50)', 'PPIT', 'BCS-7D', 'Shaharbano'), 
+    ('thursday', '7', 'E3 CS (50)', 'FSPM', 'BSE-7A', 'Iqra Fahad'), 
+    ('friday', '1', 'E1 CS(50)', 'FSPM', 'BSE-7A', 'Iqra Fahad'), 
+    ('friday', '2', 'E1 CS(50)', 'TBW', 'BAI-7A', 'Sameera Sultan'), 
+    ('friday', '2', 'E2 CS (50)', 'IS', 'BCS-7D', 'Dr. Aqsa Aslam'), 
+    ('friday', '3', 'E4 CS (50)', 'PPIT', 'BCS-7D', 'Shaharbano'), 
+    ('friday', '5', 'E3 CS (50)', 'TBW', 'BAI-7A', 'Sameera Sultan')
+    ]
+
 
 
 dict_items([('E1 CS(50)', {'status': 'occupied', 'section': 'BSE-7A', 'course': 'FSPM', 'teacher': 'Iqra Fahad'}), ('E2 CS (50)', {'status': 'occupied', 'section': 'BAI-5A', 'course': 'ML', 'teacher': 'Dr. Farrukh Shahid'}), ('E3 CS (50)', {'status': 'occupied', 'section': 'BCS-7A', 'course': 'RS', 'teacher': '\n Zain ul Hassan'}), ('E4 CS (50)', {'status': 'occupied', 'section': 'BCS-7A', 'course': 'DS', 'teacher': '\n Dr. Nouman Durrani'}), ('E5 CS (50)', {'status': 'occupied', 'section': 'BCS-7A', 'course': 'AML', 'teacher': '\n Muhammad Shahzad'}), ('E6 CS (50)', {'status': 'occupied', 'section': 'BCS-5H', 'course': 'SDA', 'teacher': 'Javeria Farooq'}), ('R11 CS (50)', {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}), ('R12 CS (70)', {'status': 'occupied', 'section': 'BCY-5B', 'course': 'Algo', 'teacher': 'Sandesh Kumar'}), ('R109 CS (50)', {'status': 'occupied', 'section': 'BSE-5A', 'course': 'TBW', 'teacher': 'Javeria Ali'}), ('E-29 EE (52)', {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}), ('E-30 EE (52)', {'status': 'empty', 'section': '', 'course': '', 'teacher': ''}), ('E-31 EE (52)', {'status': 'occupied', 'section': 'BCS-1G', 'course': 'FE', 'teacher': 'Huma Hafeez'}), ('E-32 EE (52)', {'status': 'occupied', 'section': 'BCY-1A', 'course': 'FE', 'teacher': 'Sharmeen Ismail'}), ('E-33 EE (52)', {'status': 'occupied', 'section': 'BCS-1E', 'course': 'AP', 'teacher': 
