@@ -123,7 +123,7 @@ def setClassrooms(day_data):
     for i in range(len(classes_data)):
         classrooms[i] = classes_data[i]
 
-def main():
+def getData():
 
     read_data()
     for i in range(len(days)):
@@ -133,8 +133,12 @@ def main():
         timetable[days[i]] = convertToDictionary(day_timetable, dataframes[i], i)  
         day_timetable = {}
     
-    print(timetable['friday'])
+    # print(timetable['friday'])
+    return timetable
     # print(dataframes[4])
 
+
+def main():
+    getData()
 if __name__ == "__main__":
     main()
