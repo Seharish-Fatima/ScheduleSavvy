@@ -1,0 +1,6 @@
+.outer-container{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    background-color: yellow;
+}
