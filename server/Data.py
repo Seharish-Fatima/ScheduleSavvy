@@ -42,12 +42,10 @@ def adjust_labs(day_timetable, slot, class_index, obj):
     # print('adjust labs called')
     for i in range(1,3):
         if str(slot+i) not in day_timetable:
-            print('slot not exists, created')
             day_timetable[str(slot+i)] = {}
             day_timetable[str(slot+i)][classrooms[class_index]] = obj
             # print(day_timetable[str(slot+i)][classrooms[class_index]])
         elif classrooms[class_index] not in day_timetable[str(slot+i)]:
-            print('class not exists, created')
             day_timetable[str(slot+i)][classrooms[class_index]] = {}
             day_timetable[str(slot+i)][classrooms[class_index]] = obj
             # print(day_timetable[str(slot+i)][classrooms[class_index]])
@@ -81,7 +79,6 @@ def makeObject(day_timetable, slot, slot_data, day_no):
         value_data = value.split(' ')
         if value_data[0] != 'empty':
             slot_object['course'] = value_data[0]
-            print(slot_object['course'])
             slot_object['section'] = value_data[1].strip()
             name = [x for x in value_data[2:] if x != '']
             slot_object['teacher'] = ' '.join(name)
@@ -91,15 +88,12 @@ def makeObject(day_timetable, slot, slot_data, day_no):
 def read_data():
     for index in range(len(days)):
         dataframes.append(pd.read_csv('./timetables/{}.csv'.format(days[index]), skiprows=1))
-        print(index, days[index], len(dataframes[index]))
 
 def convertToDictionary(day_timetable, day_data, day_no):
     slots_length = len(slots) - 1
-    print(slots_length)
 
     # slots + 1
     for i in range(1, slots_length + 1):
-        print('slot no :', slots[i-1])
         makeObject(day_timetable, i, day_data[str(i)], day_no)
     # print(day_timetable)
     # return day_timetable
@@ -113,8 +107,6 @@ def setSlots(day_data):
             pass
         else:
             slots[i] = slots_data[i]
-    
-    print(slots)
 
 def setClassrooms(day_data):
     classes_data = day_data['Slots'].values[2:]
@@ -133,7 +125,7 @@ def getData():
         timetable[days[i]] = convertToDictionary(day_timetable, dataframes[i], i)  
         day_timetable = {}
     
-    # print(timetable['friday'])
+    # print(timetable['monday'])
     return timetable
     # print(dataframes[4])
 
