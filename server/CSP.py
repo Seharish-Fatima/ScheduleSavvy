@@ -14,6 +14,7 @@ class CSP():
         self.clash_counts = {}
         self.clash_slots = {}
         self.resolved_courses = {}
+        self.freeSlots = {}
 
     def getStudentTT(self):
 
@@ -86,6 +87,7 @@ class CSP():
         # print('no of clashes are : ', self.countClashes()) 
         
         for day in self.days:
+            self.freeSlots[day] = []
             for slot, classes in self.timetable[day].items():
                 for class_name, class_info in classes.items():
                     status = class_info['status']
@@ -94,6 +96,9 @@ class CSP():
                     teacher = class_info['teacher']
                     class_tuple = (day, slot, class_name, course, section, teacher)
                     print(class_tuple)
+                    if (status == 'empty') and (slot not in self.clash_slots[day]):
+                        print('free slot found', (day, status, slot, class_name))
+                        self.freeSlots[day].append((status, slot, class_name))
                     self.retrieveClassTupleExists(class_tuple)
                     
                 
@@ -109,9 +114,21 @@ class CSP():
                 self.resolved_courses[info].append(class_tuple)
     
     def printResolvedClasses(self):
-        print(self.resolved_courses)   
-        print(self.clash_slots)     
+        for clash, resolved in self.resolved_courses.items():
+            print()
+            print(clash)
+            print('resolved Classes:')
+            for data in resolved:
+                print(data)  
+        
+        print(self.clash_slots)  
 
+    def printFreeSlots(self):
+        for day, slots in self.freeSlots.items():
+            print()
+            print(day + " : ")
+            for data in slots:
+                print(data)  
 
 
 student_tt = [
@@ -142,3 +159,4 @@ csp.resolvedClasses()
 csp.locateResolvedClasses()
 print('csp.printResolvedClasses()')
 csp.printResolvedClasses()
+csp.printFreeSlots()
